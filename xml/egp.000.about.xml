@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.000.about">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">About Encyclopedia of the Great Plains</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.000.about</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+
+<head>About</head>
+
+<p>The Encyclopedia of the Great Plains is organized thematically and alphabetically. There are twenty-seven chapters, ranging in alphabetical order from African Americans to Water. Each chapter is introduced by a major essay, a synthesis of the topic, and contains individual entries of varying length, which are arranged alphabetically. Altogether there are 1,316 entries contributed by almost 1,000 scholars.</p>
+
+<p>This thematic organization has both advantages and disadvantages. The primary advantage is that it gives the encyclopedia an interpretive function which is lacking in purely alphabetical works: the very division into such chapters as Agriculture, Native Americans, Gender, and Images and Icons is a partial analysis of the character of the Great Plains region. The main disadvantage was the difficulty of deciding where to place entries that could very well fit in a number of chapters and, associated with this, how to make sure that readers can readily find the information that they need. The entry on Drought, for example, in the Water chapter, could also logically fit in the Agriculture, Images and Icons, or Physical Environment chapters. Consequently, we have made a concerted effort to guide the reader to the entries. A full-text search is also available.</p>
+
+<p>We have placed most entries on African Americans, Asian Americans, Hispanic Americans, and Native Americans in their particular chapters rather than scattering them throughout the encyclopedia in chapters such as Politics and Government, Music, and Art. In doing this, we wanted to emphasize the contributions of these peoples&#8212; contributions that have often been overlooked&#8212;to the shaping of the Great Plains. Yet in some cases&#8212;Charlie Parker in Music, for example, Jim Thorpe in Sports and Recreation, or Malcolm X in Protest and Dissent&#8212;we judged that their contributions were of such great national significance that they needed to be placed in the relevant topical chapter.</p>
+
+<p>In the biographical entries we have chosen to use popular forms of names in the title and to provide the full formal name in the text. It seemed more likely that someone would look for ‘‘Carson, Johnny’’ rather than ‘‘Carson, John William’’ or for ‘‘Calamity Jane’’ rather than ‘‘Canary, Martha.’’ In almost all the biographical entries we have provided the precise dates and places of birth and (if relevant) death. In these, and all other entries in the encyclopedia, information is believed to have been accurate as of August 1, 2003.</p>
+
+<p>The author's name and affiliation, or place of residence, are given at the end of each essay and entry. Also at the end of all the essays and many of the entries are cross-references to related entries in other chapters. A short bibliography, intended to direct the reader to additional information on the topic, is also provided for the essays and most entries.</p>
+
+<p>Our objective in producing this encyclopedia is to give definition to a region that has traditionally been poorly defined. To achieve this goal, we have strived to be as inclusive as possible: inclusive in topics, from the physical environment to the humanities; inclusive geographically, from Texas to Alberta and from the Rocky Mountains to the Missouri River; inclusive temporally, from Paleo-Indians to the 2000 census; and inclusive ethnically, racially, and by gender. We have thrown a wide net, and it is our hope that we have captured most of what is vital, and interesting, about the Great Plains.</p>
+
+
+</div1>
+
+
+<div1>
+
+<head>Acknowledgments</head>
+
+<p>The Encyclopedia of the Great Plains was conceived in 1989 by John R. Wunder, director of the Center for Great Plains Studies at the University of Nebraska&#8211;Lincoln. The Center for Great Plains Studies, under the direction of James Stubbendieck since 1997, has served as the home of the project, which continues the center's mission to foster knowledge of the Great Plains region.</p>
+
+<p>As editor, I am indebted to the scholars who worked with me on this project and made it such a rewarding experience. The regional editors, Pamela Brink, Nancy Tystad Koupal, and Theodore Regehr, championed their causes and provided insiders' knowledge and understanding of their sections of the Plains. They were deeply involved in the conceptualization of the project and contributed entries as well. The associate editors, all from the University of Nebraska&#8211;Lincoln, assisted in many ways: they wrote entries and, in addition, J. Clark Archer served as cartographic consultant, Martha Kennedy (now at the Library of Congress) selected much of the artwork, Frances Kaye wrote the essay on Literary Traditions and was an additional consultant for the Canadian part of the region, and John Wunder coauthored the grant applications to the National Endowment for the Humanities. The two project managers were indispensable to the project. Scarlett Presley set up the database that allowed each entry to be tracked at each stage of the editing process. With research assistant Beth Ritter, she got the encyclopedia of the ground by establishing our system of successive contacts with authors and setting a steady course when we really weren't sure of what we were doing. Then Sonja Rossum, who had started as a research assistant (and would later do much of the cartography), took over as project manager. Sonja became, as we all acknowledged, the "brains behind the operation." We all feel fortunate to have worked with her. Gretchen Walker, secretary at the Center for Great Plains Studies, served as administrative assistant during the many years of production, calmly handling the recurring financial crises. The research assistants did the detail work in the library, identified entries, advised me on content and editing, and in most cases, wrote entries themselves. I hope the other assistants will forgive me for singling out Pekka H&#228;m&#228;l&#228;inen, Mark Ellis, and Charles Vollan, not only for their longevity on the job, but for their deep knowledge of the Great Plains, which is a credit to the historian's craft. My good fortune continued in the closing stages of the project when three fine editors, Lona Dearmont, Mary Hill, and Joeth Zucco refined the finished product. I am especially grateful to Joeth Zucco, who coordinated the editing of the 5,112 manuscript pages with patience and skill.</p>
+
+<p>Finally, I want to thank all the authors, many of whom are fellows or associate fellows of the Center for Great Plains Studies. They did their work for no real reward other than to be participants in a project that they thought worthwhile. I hope that when they see the Encyclopedia of the Great Plains they will consider that their time was well spent.</p>
+
+<closer><signed>David J. Wishart, Editor University of Nebraska–Lincoln</signed></closer>
+
+
+
+</div1>
+
+<div1>
+
+<head>Project Staff</head>
+
+<list>
+<head>EDITOR</head>
+<item>David J. Wishart. University of Nebraska&#8211;Lincoln</item>
+</list>
+
+<list>
+<head>REGIONAL EDITORS</head>
+<item>Pamela H. Brink. Associated Authors and Editors, Inc. Lubbock, Texas (Southern Plains)</item>
+<item>Nancy Tystad Koupal. South Dakota Historical Society. Pierre, South Dakota (Northern Plains)</item>
+<item>Theodore D. Regehr. University of Calgary and University of Saskatchewan (Prairie Provinces)</item>
+</list>
+
+<list>
+<head>ASSOCIATE EDITORS</head>
+<item>J. Clark Archer. University of Nebraska&#8211;Lincoln</item>
+<item>Frances W. Kaye. University of Nebraska&#8211;Lincoln</item>
+<item>Martha H. Kennedy. Library of Congress</item>
+<item>John R. Wunder. University of Nebraska&#8211;Lincoln</item>
+</list>
+
+<list>
+<head>PROJECT MANAGERS</head>
+<item>Scarlett Presley (1995–1999)</item>
+<item>Sonja Rossum (1999–2002)</item>
+</list>
+
+<list>
+<head>RESEARCH ASSISTANTS</head>
+<item>Beth Ritter (1995–1999)</item>
+<item>Akim D. Reinhardt (1996–1997)</item>
+<item>Pekka H&#228;m&#228;l&#228;inen (1996–1998)</item>
+<item>Sonja Rossum (1997–1999)</item>
+<item>April L. Whitten (1997–1998)</item>
+<item>Robert Watrel (1998)</item>
+<item>Mark R. Ellis (1999–2001)</item>
+<item>Charles Vollan (2000–2002)</item>
+</list>
+
+<list>
+<head>ADMINISTRATIVE ASSISTANT</head>
+<item>Gretchen Walker</item>
+</list>
+
+<list>
+<head>CENTER FOR DIGITAL RESEARCH IN THE HUMANITIES</head>
+<item>Karin Dalziel, Digital Resources Designer</item>
+<item>Erin Pedigo, Graduate Research Assistant</item>
+<item>Nick Swiercek, Graduate Research Assistant</item>
+<item>Katherine Walter, CDRH Co-Director</item>
+<item>Laura Weakly, Metadata Encoding Specialist</item>
+</list>
+
+</div1>
+
+
+
+</body>
+</text>
+</TEI>

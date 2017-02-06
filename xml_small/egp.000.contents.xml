@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.000.contents">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Contents</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.000.contents</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+
+<head>Contents</head>
+
+<p>Any introduction to the contents will go here.</p>
+    
+    <list>
+        <item><ref n="doc/egp.afam.000.xml">African Americans</ref></item>
+        <item><ref n="doc/egp.ag.000.xml">Agriculture</ref></item>
+        <item><ref n="doc/egp.arc.000.xml">Architecture</ref></item>
+        <item><ref n="doc/egp.art.000.xml">Art</ref></item>
+        <item><ref n="doc/egp.asam.000.xml">Asian Americans</ref></item>
+        <item><ref n="doc/egp.ct.000.xml">Cities and Towns</ref></item>
+        <item><ref n="doc/egp.edu.000.xml">Education</ref></item>
+        <item><ref n="doc/egp.ea.000.xml">European Americans</ref></item>
+        <item><ref n="doc/egp.fil.000.xml">Film</ref></item>
+        <item><ref n="doc/egp.fol.000.xml">Folkways</ref></item>
+        <item><ref n="doc/egp.gen.000.xml">Gender</ref></item>
+        <item><ref n="doc/egp.ha.000.xml">Hispanic Americans</ref></item>
+        <item><ref n="doc/egp.ii.000.xml">Images and Icons</ref></item>
+        <item><ref n="doc/egp.ind.000.xml">Industry</ref></item>
+        <item><ref n="doc/egp.law.000.xml">Law</ref></item>
+        <item><ref n="doc/egp.lt.000.xml">Literary Traditions</ref></item>
+        <item><ref n="doc/egp.med.000.xml">Media</ref></item>
+        <item><ref n="doc/egp.mus.000.xml">Music</ref></item>
+        <item><ref n="doc/egp.na.000.xml">Native Americans</ref></item>
+        <item><ref n="doc/egp.pe.000.xml">Physical Environment</ref></item>
+        <item><ref n="doc/egp.pg.000.xml">Politics and Government</ref></item>
+        <item><ref n="doc/egp.pd.000.xml">Protest and Dissent</ref></item>
+        <item><ref n="doc/egp.rel.000.xml">Religion</ref></item>
+        <item><ref n="doc/egp.sr.000.xml">Sports and Recreation</ref></item>
+        <item><ref n="doc/egp.tra.000.xml">Transportation</ref></item>
+        <item><ref n="doc/egp.war.000.xml">War</ref></item>
+        <item><ref n="doc/egp.wat.000.xml">Water</ref></item>
+    </list>
+
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

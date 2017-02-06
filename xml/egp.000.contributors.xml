@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.000.contributors">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">About</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+    <idno>egp.000.contributors</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+
+    <head>Contributors</head>
+
+    <p>Contributors text will go here</p>
+
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

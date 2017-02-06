@@ -1,0 +1,10 @@
+*.svn
+figures/*
+audio/*
+config.xsl
+post.py
+data_encyclopedia/*
+search/*
+images/*
+
+.DS_Store

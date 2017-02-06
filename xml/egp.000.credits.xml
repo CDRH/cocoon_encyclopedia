@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.000.credits">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Encyclopedia of the Great Plains Image Credits</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.000.credits</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<table>
+<head>African Americans</head>
+<row>
+<cell>Kansas State Historical Society (E185.1876*1)</cell>
+<cell><ref n="egp.afam.000" type="credit"> Singleton, Pap ("Benjamin 'Pap' Singleton and S. A. McClure, emigrants leaving Nashville, Tennessee, April 15, 1876.")</ref></cell>
+</row>
+<row>    
+<cell>Kansas State Historical Society</cell>
+<cell><ref n="egp.afam.034" type="credit">Parks, Gordon ("Gordon Parks, in the director's chair")</ref></cell>
+</row>	
+<row>
+<cell>Oklahoma Historical Society, Archives &amp; Manuscripts Division, Photo No. 3377.D.</cell>
+<cell><ref n="egp.afam.006" type="credit"> All-Black Towns ("Town council, Boley, Oklahoma, ca. 1907-1910")</ref></cell>
+</row>
+<row>
+<cell>Oklahoma Historical Society, Ella Mahler Collection, Archives &amp; Manuscripts Division, Photo Number: 20280.4</cell>
+<cell><ref n="egp.afam.041" type="credit">Tulsa Race Riot ("Burned ruins after race riot in Tulsa, Oklahoma, June 1, 1921")</ref></cell>
+</row>
+<row>
+<cell>Oklahoma State University Athletics</cell>
+<cell><ref n="egp.afam.036" type="credit">Sanders, Barry ("Barry Sanders, 1988")</ref></cell>
+</row>
+<row>
+<cell>American Academy of Dramatic Arts</cell>
+<cell><ref n="egp.afam.026" type="credit">Little, Cleavon ("Cleavon Little")</ref></cell>
+</row>
+<row>
+<cell>Denver Public Library Z-275, Western History Collection</cell>
+<cell><ref n="egp.afam.002" type="credit">African American Cowboys ("Adjusting saddle stirrups at a Colored Rodeo Association of Denver event, September 1948")</ref></cell>    
+</row>
+<row>
+<cell>Denver Public Library F22858 DPLW, Western History Collection</cell> 
+<cell><ref n="egp.afam.011" type="credit">Brown, "Aunt" Clara ("Aunt" Clara Brown between 1875 and 1880")</ref></cell>    
+</row>
+<row>
+<cell>Denver Public Library X-28759, Western History Collection</cell>    
+<cell><ref n="egp.afam.014" type="credit">Civil Rights ("African-American men and women demonstrate in Denver, Colorado for complete integration in schools, May 16, 1968")</ref></cell>    
+</row>
+<row>
+<cell>Denver Public Library F21914 DPLW, Western History Collection</cell>    
+<cell><ref n="egp.afam.027" type="credit">Love, Nat ("In My Fighting Clothes")</ref></cell>
+</row>
+<row>    
+<cell>Denver Public Library Z-105, Western History Collection</cell>    
+<cell><ref n="egp.afam.029" type="credit">McDaniel, Hattie ("Hattie McDaniel, 1939")</ref></cell>    
+</row>
+<row>
+<cell>Library of Congress African American Odyssey Collection,  LC-US2C4-6161</cell>
+<cell><ref n="egp.afam.009" type="credit">Black Regiments ("Buffalo Soldiers of the 25th infantry, some wearing buffalo robes, Fort Keogh, Montana, 1890")</ref></cell>
+</row>
+<row>
+<cell>J. Clark Archer, U. S. Census Bureau: Census 2000 Redistricting Data (Public Law 94-171 Summary File) Table QT-PL Race, Hispanic or Latino, and Age: 2000.</cell>
+<cell><ref n="egp.afam.001" type="credit">African Americans (Map)</ref></cell>        
+</row>
+</table>
+<table>    
+<head>Agriculture</head>
+<row>
+<cell>Kansas State Historical Society(FK2.55 T.65 F.1918*1)</cell>
+<cell><ref n="egp.ag.030" type="credit">Fairs ("Hog exhibit, Shawnee County, Kansas, 1918")</ref></cell>
+</row>
+<row>
+<cell>Kansas State Historical Society (FK2.G8.31P.*4)</cell>
+<cell><ref n="egp.ag.065" type="credit">Suitcase Farming ("Breaking sod in Greeley County, Kansas, May 1925")</ref></cell>
+</row>
+<row>
+<cell>CU-Denver, Thomas J. Noel</cell>
+<cell><ref n="egp.ag.000" type="credit">Frontispiece ("Grain Elevators, Southwestern Alberta, 1955)</ref></cell>
+</row>	
+<row>
+<cell>Texas Tech University, Southwest Collection/Special Collections Library, Frank Reeves Photograph Collection, 1925-1975, FR103</cell>
+<cell><ref n="egp.ag.019" type="credit">Cattle Ranching ("Cattle Ranching")</ref></cell>
+</row>
+<row>
+<cell>University of Nebraska Press; NARA-NWDS ID 115-JG-521; Gallery of the Open Frontier</cell>
+<cell><ref n="egp.ag.008" type="credit">Alfalfa ("Alfalfa harvest, Huntley Irrigation Project, Montana, 1914")</ref></cell>
+</row>
+<row>
+<cell>University of Nebraska Press, NARA-NRE, ID 75-FB(PHO)-394, Gallery of the Open Frontier</cell>
+<cell><ref n="egp.ag.014" type="credit">Branding ("Branding a calf, Fort Berthold Indian Agency, North Dakota, 1948")</ref></cell>
+</row>
+<row>
+<cell>University of Nebraska Press; NARA-NWDNS ID 115-JG-196; Gallery of the Open Frontier</cell>
+<cell><ref n="egp.ag.064" type="credit">Sugar Beets ("Sugar Beets,Huntley Irrigation Project, Montana, 1906")</ref></cell>
+</row>
+<row>
+<cell>John E. Simmons, Museologica. University of Kansas</cell>
+<cell><ref n="egp.ag.075" type="credit">Wheat ("Wheat Harvest near Chilocco, Oklahoma, July 1984")</ref></cell>
+</row>
+<row>
+<cell>David J. Wishart (Photo)/John C. Hudson (Map), Northwestern University Anthropology Department</cell>
+<cell><ref n="egp.ag.001" type="credit">Agriculture ("The importance of Great Plains agriculture")</ref></cell>
+</row>
+<row>
+<cell>AgriLife Research Texas A&amp;M System, Office of the Director&#8212;Bill McCutchen</cell>
+<cell><ref n="egp.ag.061" type="credit">Sorghum ("Production of hybrid grain sorghum on the Texas High Plains")</ref></cell>
+</row>
+<row>
+<cell>United States Department of Agriculture</cell>
+<cell><ref n="egp.ag.022" type="credit">Corn ("Corn Produced for Grain in the United States, 1997")</ref></cell>
+</row>
+</table>
+
+<table>
+<head>Architecture</head>
+<row>
+<cell>Nebraska State Historical Society RG2183</cell>
+<cell><ref n="egp.arc.041" type="credit">Roadside Architecture ("Waltz Service Station, Feb. 1937")</ref></cell>
+</row>
+<row>
+<cell>© Carol Herselle Krinsky, New York University Architecture</cell>
+<cell><ref n="egp.arc.034" type="credit">Native American Contemporary Architecture ("Oglala Lakota College, Piya Wiconi Building, Pine Ridge Reservation, South Dakota." Hodne-Stageberg, architects.)</ref></cell>
+</row>
+<row>
+<cell>Oklahoma Historical Society, Archives &amp; Manuscripts Division, Photo Number: 19279.1</cell>
+<cell><ref n="egp.arc.032" type="credit">Layton, Solomon ("Daily Oklahoman Building, Oklahoma City, Oklahoma")</ref></cell>
+</row>
+<row>
+<cell>University of Nebraska Press, NARA-NWDNS, ID 111-SC-82520, Gallery of the Open Frontier, Photo courtesy Nebraska Capitol Archives, Sid Spelts Collection, 24-14-4(1)</cell>
+<cell><ref n="egp.arc.001" type="credit">Architecture ("Sioux tipis, Fort Buford, Dakota Territory, May 1881"; "Pawnee earth lodge, ca. 1871"; "Nebraska State Capitol")</ref></cell>
+</row>
+<row>
+<cell>Ron Van Zee</cell>
+<cell><ref n="egp.arc.004" type="credit">Barns ("Dairy Barn, Kranzburg, South Dakota")</ref></cell>
+</row>
+<row>
+<cell>Irving Rusinow; University of Nebraska Press; NARA-NWDNS ID 83-G-41952; Gallery of the Open Frontier</cell>    
+<cell><ref n="egp.arc.007" type="credit">Cemeteries ("Haskell County, Kansas, 1941")</ref></cell>
+</row>	
+</table>
+
+<table>
+<head>Art</head>
+<row>
+    <cell>Royal Ontario Museum(912.1.49)</cell>
+<cell><ref n="egp.art.041" type="credit">Kane, Paul ("Cree Indians Travelling",oil on canvas; )</ref></cell>
+</row>
+<row>
+    <cell>Royal Ontario Museum(946.15.102)</cell>
+<cell><ref n="egp.art.041" type="credit">Kane, Paul("Cree Indians on the March, near Fort Carlton",pencil on paper) </ref></cell>
+</row>
+<row>
+<cell>Alexandre Hogue. Copyright 2009, The Hogue Family Estate; The Philbrook Museum of Art Inc., Tulsa, Oklahoma</cell>
+<cell><ref n="egp.art.032" type="credit">Hogue, Alexandre ("Mother Earth Laid Bare")</ref></cell>
+</row>
+<row>
+<cell>Courtesy of Ralph Hartley</cell>
+<cell><ref n="egp.art.053" type="credit">Rock Art ("Rock art, southeastern Colorado, Fort Carson Military Reservation")</ref></cell>
+</row>
+<row>
+<cell>Copyright University of South Dakota</cell>
+<cell><ref n="egp.art.001" type="credit">Plains Indian art ("Calling on Wakan Tanka," 1967. Casein on paper by Oscar Howe)</ref></cell>
+</row>
+<row>
+<cell>Copyright University of South Dakota</cell>
+<cell><ref n="egp.art.034" type="credit"> Howe, Oscar ("Oscar Howe in his studio at the University of South Dakota, ca. 1968")</ref></cell>
+</row>
+<row>
+<cell>Whitney Museum of American Art #36.144</cell>
+<cell><ref n="egp.art.040" type="credit">Jones, Joe ("American Farm" 1936. Oil and tempera on canvas)</ref></cell>
+</row>
+<row>
+<cell>Cecil Hays (Denver Public Library X-22212, Western History Collection)</cell>    
+<cell><ref n="egp.art.036" type="credit">Jackson, William Henry ("William Henry Jackson, 1924")</ref></cell>
+</row>  
+<row>
+<cell>From the collection of the University of South Dakota, Vermillion, SD/Christlieb Collection, Great Plains Art Collection, UNL, photographed by Roger Bruhn/The Metropolitan Museum of Art, Arthur H. Hearn Fund, 1932. (32.84)./Gift of Dr. Leon S. McGoogan and the Friends of the Center for Great Plains Studies, Great Plains Art Collection, UNL</cell>
+<cell><ref n="egp.art.000" type="credit">Frontispiece ("Nightshield" by Robert Lee Penn, 1990. Oil on canvas) </ref></cell>
+</row>
+<row>
+<cell>Photo Copyright John Blumb</cell>
+<cell><ref n="egp.art.031" type="credit">Stan Herd, "Sunflower Field near Eudora, Kansas 1986"</ref></cell>
+</row>  
+<row>    
+<cell>Marion Post Wolcott, Library of Congress, LC-USF34-058504-D</cell>
+    <!-- Link broken -->
+<cell><ref n="egp.art.06" type="credit">Freight train and grain elevators in Carter, Montana, August 1931</ref></cell>
+</row> 
+<row>    
+<cell>Wendy Walker Zeller/ Mabee Library Special Collections, Washburn University</cell>
+<cell><ref n="egp.art.059" type="credit">Washburn Bible designed by Bradbury Thompson, 1979</ref></cell>
+</row>	  
+</table>
+
+<table>
+<head>Asian Americans</head>
+<row>    
+ 
+<cell>Adams Museum, Deadwood, SD</cell>
+<cell><ref n="egp.asam.023" type="credit">Wong, Fee Lee ("Wong Family")</ref></cell>
+</row>
+<row>
+<cell>Courtesy of Elena Cline/ Colorado State Archives, B-624, Joe McClelland, 6/20/43</cell>
+<cell><ref n="egp.asam.002" type="credit">Amache Internment Camp ("Granada Relocation Center, Amanche, Colorado, June 1943")</ref></cell>
+</row>
+<row>
+<cell>Glenbow Archives, NA-2798-6.</cell>
+<cell><ref n="egp.asam.000" type="credit">Frontispiece ("City commissioners and local Chinese delegation, Calgary, Alberta, October 13,1901")</ref></cell>
+</row>
+<row>
+<cell>Kansas State University. Photograph by Janet E. Benson.</cell>
+<cell><ref n="egp.asam.022" type="credit">Vietnamese ("Vietnamese fan dancers, Garden City, Kansas, ca. 1990")</ref></cell>
+</row>	
+<row>
+<cell>University of Nebraska Press; NARA-NWDNS ID 210-G-E664; Gallery of the Open Frontier</cell>
+<cell><ref n="egp.asam.013" type="credit">Hosokawa, William ("William Hosokawa, January 1943")</ref></cell>
+</row>
+<row>
+<cell>Statistics Canada</cell>
+<cell><ref n="egp.asam.003" type="credit">Asian Canadians (People of Asian Ethnic Origin Living in Canadian Metropolitan Centre, 1991)</ref></cell>
+</row>
+<row>
+<cell>J. Clark Archer; U. S. Census Bureau</cell>
+<cell><ref n="egp.asam.001" type="credit">Asian Americans(Map) "Asian-American population in the Great Plains as a percentage of total population by county, in 2000"</ref></cell>
+</row>
+</table>
+
+
+<table>
+<head>Cities and Towns</head>
+<row>
+<cell>Colorado Historical Society. CHS.J4270, Photo by William Henry Jackson; William Henry Jackson Collection</cell>
+<cell><ref n="egp.ct.014" type="credit">Colorado Springs, Colorado ("Colorado Springs, Colorado, between 1880 and 1910")</ref></cell>
+</row>
+<row>
+<cell> Colorado Historical Society. CHS.J3318, Detroit Photographic Co., William Henry Jackson Collection</cell>
+<cell><ref n="egp.ct.037" type="credit">Omaha, Nebraska ("Omaha, Nebraska, 1900")</ref></cell>
+</row>
+<row>
+<cell>Richard Longstreth, George Washington University</cell>
+<cell><ref n="egp.ct.032" type="credit">Main Street, Florence, Kansas</ref></cell>
+</row>
+<row>
+<cell>Kansas State Historical Society (FK2.S5 T.5 KanA.7S*5)</cell>
+<cell><ref n="egp.ct.000" type="credit">Main Street ("Main Street, Topeka, Kansas, ca. 1870")</ref></cell>
+</row>
+<row>
+<cell>North Dakota State University, Institute for Regional Studies, NDSU, Fargo</cell>
+<cell><ref n="egp.ct.022" type="credit">Fargo, North Dakota ("Aftermath of a fire in Fargo, North Dakota, June 7, 1893")</ref></cell>
+</row>
+<row>
+<cell>Matthew Engel, Geology/Geography, Northwest Missouri State University</cell>
+<cell><ref n="egp.ct.049" type="credit">Small Towns ("Tribune, Kansas")</ref></cell>
+</row>	
+<row>
+<cell>Thomas J. "Dr. Colorado" Noel, professor of History, CU-Denver</cell>
+<cell><ref n="egp.ct.018" type="credit">Denver, Colorado ("Denver, Colorado")</ref></cell>
+</row>
+<row>
+<cell>William Henry Jackson; University of Nebraska Press, NARA-NWDNS ID-57-HS-708; Gallery of the Open Frontier</cell>
+<cell><ref n="egp.ct.012" type="credit">Cheyenne, Wyoming ("A stereograph of Cheyenne, Wyoming, 1869")</ref></cell>
+</row>
+<row>
+<cell>University of Nebraska Press; NARA-NWDNS ID 111-SC-87337; Gallery of the Open Frontier</cell>
+<cell><ref n="egp.ct.036" type="credit">Oklahoma City, Oklahoma ("Oklahoma City, Oklahoma Territory, 1889")</ref></cell>
+</row>
+<row>
+<cell>University of Nebraska Press; NARA-NWDNS ID 111-SC-87377; Gallery of the Open Frontier</cell>
+<cell><ref n="egp.ct.046" type="credit">San Angelo, Texas ("San Angelo, Texas ca. 1886")</ref></cell>
+</row>
+<row>
+<cell>Michael P. Conzen, Commission on Geographical Studies, University of Chicago</cell>
+<cell><ref n="egp.ct.001" type="credit">Cities of the Great Plains</ref></cell>
+</row>
+<row>
+<cell>Suzi Taylor/  Wyoming State Archives</cell>
+<cell><ref n="egp.ct.027" type="credit">Hell on Wheels Towns ("Tent City, 16th Street, Cheyenne, Wyoming, 1867")</ref></cell>
+</row>
+
+</table>
+
+<table>
+<head>Education</head>
+<row>
+<cell>S. D. Butcher, Nebraska State Historical Society, RG2608.PH-2924</cell>
+<cell><ref n="egp.edu.012" type="credit">Chautauqua ("Chautauqua tent, Kearney, Nebraska ca. 1890")</ref></cell>
+</row>
+<row>
+<cell>Provincial Archives of Manitoba (N10264)</cell>
+<!-- Link Broken -->
+<cell><ref n="egp.edu.089" type="credit">"Indian parents waiting for children who will be going home for summer vacation, Birtle Residential School, Manitoba, 1904"</ref></cell>
+</row>
+<row>
+<cell>United States Air Force Academy</cell>
+<cell><ref n="egp.edu.039" type="credit">"Cadets in front of the USAFA Cadet Chapel, Colorado Springs, Colorado</ref></cell>
+</row>
+<row>
+<cell>John E. Simmons</cell>
+<cell><ref n="egp.edu.028" type="credit">Royal Tyrrell Museum, Drumheller, Alberta, July 1989</ref></cell>
+</row>	
+<row>
+<cell>Fred Hulstrand History in Pictures Collection, NDIRS-NDSU, Fargo, 2028.358</cell>
+<cell><ref n="egp.edu.000" type="credit">Frontispiece ("Rural school near Osnabrock, North Dakota, between 1900 and 1909")</ref></cell>
+</row>
+<row>
+<cell>Library and Archives Canada/ Bibliotheque et Archives Canada (C-037113)</cell>
+<cell><ref n="egp.edu.020" type="credit">Indian Residential Schools, Canada ("Father and children attending Qu'Appelle, [Sask.] Industrial School, ca. 1900")</ref></cell>
+</row>
+</table>
+
+<table>
+<head>European Americans</head>
+<row>
+<cell>Charles S. Lillybridge, Colorado Historical Society. CHS-L1826 Lillybridge Collection</cell>
+<cell><ref n="egp.ea.031" type="credit">Scots ("A woman dancing the Highland fling in Scottish costume, Denver, Colorado, between 1904 and 1910")</ref></cell>
+</row>
+<row>
+<cell>Provincial Archives of Manitoba/HBCA Documentary Art, P-392 (N1394)</cell>
+<cell><ref n="egp.ea.023" type="credit">Kelsey, Henry ("Kelsey Sees the Buffalo, August 1691" by C. W. Jeffrys)</ref></cell>
+</row>
+<row>
+<cell>Kansas State Historical Society (FK2M3 L.52. 1961*10)</cell>
+<cell><ref n="egp.ea.000" type="credit">Swedes ("Youngsters line up for a parade, Lindsborg Celebrations, Lindsborg, Kansas, 1961")</ref></cell>
+</row>
+<row>
+<cell>Nebraska State Historical Society (917.82.B92g)</cell>
+<cell><ref n="egp.ea.013" type="credit">Germans ("Burlington &amp; Missouri Railroad lands advertisement in German")</ref></cell>
+</row>
+<row>
+<cell>UTSA's Institute of Texan Cultures, #099-0243, Courtesy of the Whitehead Memorial Museum</cell>
+<cell><ref n="egp.ea.021" type="credit">Italians ("Italian-owned Val Verde Winery, Del Rio, Texas")</ref></cell>
+</row>
+<row>
+<cell>W727-7 Hattie Plum Williams Collection No. II. Original property of American Historical Society of Germans from Russia Archives</cell>
+<cell><ref n="egp.ea.012" type="credit">German Russians ("German Russians hoeing beets somewhere in western Nebraska, early 1910s")</ref></cell>
+</row>
+<row>
+<cell>Denver Public Library X-28908, Western History Collection</cell>    
+<cell><ref n="egp.ea.022" type="credit">Jews ("Purim parade, Denver, Colorado, March 23, 1973")</ref></cell>
+</row>
+</table>
+
+
+<table>
+<head>Film</head>
+<row>
+<cell>Gage County Historical Society Collection</cell>
+<cell><ref n="egp.fil.062" type="credit">Taylor, Robert ("Robert Taylor")</ref></cell>
+</row>	
+<row>
+<cell>Richard Longstreth, George Washington University</cell>
+<cell><ref n="egp.fil.049" type="credit">Movie Houses ("Blair Theatre, Belleville, Kansas")</ref></cell>
+</row>
+<row>
+<cell>Thomas Gladysz, Louise Brooks Society</cell>
+<cell><ref n="egp.fil.008" type="credit">Brooks, Louise ("Louise Brooks, ca. 1928")</ref></cell>
+</row>
+<row>
+<cell>Jon Mirsalis, Courtesy of the Lon Chaney Home Page, www.lonchaney.org, SRI International</cell>
+<cell><ref n="egp.fil.010" type="credit">Chaney, Lon ("Lon Chaney")</ref></cell>
+</row>
+<row>
+<cell>David J. Wishart, University of Nebraska</cell>
+<cell><ref n="egp.fil.001" type="credit">Film ("Piqua, Kansas, birthplace of Buster Keaton")</ref></cell>
+</row>
+<row>
+<cell>Autry Museum of Western Heritage</cell>
+<cell><ref n="egp.fil.005" type="credit">Autry, Gene ("Gene Autry and Champion, ca. 1947")</ref></cell>
+</row>
+<row>
+<cell>Museum of Modern Art, © 1955, United Artists Corporation</cell>
+<cell><ref n="egp.fil.057" type="credit">"Red River"</ref></cell>
+</row>
+<row>
+<cell>Edie Baskin, Museum of Modern Art, © 1978 by Paramount Pictures Corporation</cell>
+<cell><ref n="egp.fil.017" type="credit">"Days of Heaven"</ref></cell>
+</row>
+<row>
+<cell>Museum of Modern Art, © Warner Bros. Distributing Corporation</cell>
+<cell><ref n="egp.fil.025" type="credit">"Giant"</ref></cell>
+</row>
+<row>
+<cell>Museum of Modern Art</cell>
+<cell><ref n="egp.fil.055" type="credit">"The Plow that Broke the Plains"</ref></cell>
+</row>
+</table>
+
+<table>
+<head>Folkways</head>
+<row>
+<cell>Jim Hoy, Center for Great Plains Studies, Emporia State University</cell>
+<cell><ref n="egp.fol.005" type="credit">Cattle Guards</ref></cell>
+</row>
+<row>
+<cell>Courtesy of the Nebraska Quilt Project (Lincoln Quilters Guild)</cell>
+<cell><ref n="egp.fol.037" type="credit">Quilting ("Star of Bethlehem" Quilt made by Maria L. Gear Mook (1833-1914) Johnson County, Nebraska)</ref></cell>
+</row>
+<row>
+<cell>Solomon D. Butcher, Nebraska State Historical Society, RG2608.PH-1048</cell>
+<cell><ref n="egp.fol.000" type="credit">Frontispiece("The John Curry Homestead, near West Union, Nebraska, 1886")</ref></cell>
+</row>
+<row>
+<cell>Dan Koeck, North Dakota Council on the Arts</cell>
+<cell><ref n="egp.fol.012" type="credit">Folk Art ("Ukrainian Easter Eggs made by Angie Chruszch of Belifield, North Dakota")</ref></cell>
+</row>	
+<row>
+<cell>Timothy J. Kloberdanz, North Dakota State University</cell>
+<cell><ref n="egp.fol.001" type="credit">Folkways ("A Metis group performs the Red River jig")</ref></cell>
+</row>
+<row>
+<cell>David J. Wishart, University of Nebraska</cell>
+<cell><ref n="egp.fol.024" type="credit">Humor (example of Great Plains humor, Yates Center, Kansas 2001)</ref></cell>
+</row>
+<row>
+<cell> John E. Simmons, Museologica. University of Kansas</cell>
+<cell><ref n="egp.fol.038" type="credit">Roadside Attractions ("Garden of Eden, Lucas, Kansas")</ref></cell>
+</row>
+<row>
+<cell>Wyoming State Archives. Photo by Richard Collier, Wyoming State Museum</cell>
+<cell><ref n="egp.fol.007" type="credit">Cowboy Crafts ("Saddlemaker John King of King's Saddlery, Sheridan, Wyoming")</ref></cell>
+</row>
+</table>
+
+<table>
+<head>Gender</head>
+<row>
+<cell>State Historical Society of North Dakota, A5418.</cell>
+<cell><ref n="egp.gen.035" type="credit">Slaughter, Linda ("Linda Slaughter ca. 1880")</ref></cell>
+</row>
+<row>
+<cell>Negative #03, American Heritage Center, University of Wyoming</cell>
+<cell><ref n="egp.gen.006" type="credit">Calamity Jane</ref></cell>
+</row>
+<row>
+<cell>Winnipeg Free Press</cell>
+<cell><ref n="egp.gen.018" type="credit">Hind, Cora ("Cora Hind")</ref></cell>
+</row>
+<row>
+<cell>Denver Public Library Rh-89, Western History Collection, Photo by Harry M. Rhoads</cell>    
+<cell><ref n="egp.gen.011" type="credit">Earhart, Amelia ("Amelia Earhart in Denver, Colorado, June 3, 1931")</ref></cell>
+</row>
+</table>
+
+<table>
+<head>Hispanic Americans</head>
+<row>
+<cell>Kansas State Historical Society(FK2.W7 K.3 F.Arm*1)</cell>
+<cell><ref n="egp.ha.027" type="credit">Meatpackers ("Armour Packing Plant in Kansas City, Kansas")</ref></cell>
+</row>
+<row>
+<cell>Nebraska State Historical Society, RG1571-36</cell>
+<cell><ref n="egp.ha.000" type="credit">Frontispiece ("Mexican workers on a train listen to a lecture in Spanish on hoeing and thinning beets, eastern Colorado, ca. 1920")</ref></cell>
+</row>
+<row>
+<cell>Denver Public Library X-21596, Western History Collection</cell>    
+<cell><ref n="egp.ha.015" type="credit">Gonzales, Corky ("Corky Gonzales [under banner] speaks at war protest in front of the capitol, Denver, Colorado, 1970")</ref></cell>
+</row>
+<row>
+<cell>Denver Public Library X-21628, Western History Collection</cell>    
+<cell><ref n="egp.ha.018" type="credit">Gutierrez, Jose Angel ("Jose Angel Gutierrez, between 1965 and 1980")</ref></cell>
+</row>
+</table>
+
+<table>
+<head>Images and icons</head>
+<row>
+<cell>Glenbow Archives NA-789-104(a)</cell>
+<cell><ref n="egp.ii.038" type="credit">Last Best West ("1908 Department of the Interior immigration pamphlet")</ref></cell>
+</row>
+<row>
+<cell>Julie Schuster</cell>
+<cell><ref n="egp.ii.052" type="credit">Roswell Aliens ("International UFO Museum and Research Center, Roswell, New Mexico")</ref></cell>
+</row>
+<row>
+<cell>Oklahoma Heritage Association</cell>
+<cell><ref n="egp.ii.053" type="credit">Roughnecks and Roustabouts ("The drilling floor of a cable tool-drilling rig")</ref></cell>
+</row>
+<row>
+<cell>T. Lindsay Baker</cell>
+<cell><ref n="egp.ii.062" type="credit">Windmills ("Currie Windmill pumping water for livestock in Lincoln County, Colorado")</ref></cell>
+</row>
+<row>
+<cell>University of Nebraska Press, NARA-NWDNS, ID-111-SC-87352, Gallery of the Open Frontier</cell>    
+<cell><ref n="egp.ii.003" type="credit">Boomers ("Boomers on the Canadian River")</ref></cell>
+</row>
+<row>
+<cell>University of Nebraska Press, NARA-NWDNS, ID-111-SC-87741, Gallery of the Open Frontier</cell>    
+<cell><ref n="egp.ii.018" type="credit">Deadwood, South Dakota (Deadwood City, Dakota Territory, 1876")</ref></cell>
+</row>
+<row>
+<cell>University of Nebraska Press, NARA-NWDNS, ID 111-SC-94117, Gallery of the Open Frontier</cell>    
+<cell><ref n="egp.ii.020" type="credit">Earp, Wyatt ("Wyatt Earp")</ref></cell>    
+</row>
+<row>
+<cell>University of Nebraska Press, NARA-NWDNS, ID 111-SC-94122, Gallery of the Open Frontier</cell>    
+<cell><ref n="egp.ii.034" type="credit">Hickok, Wild Bill ("Wild Bill Hickok")</ref></cell>    
+</row>
+<row>
+<cell>David J. Wishart, University of Nebraska</cell>
+<cell><ref n="egp.ii.054" type="credit">State and Province Symbols ("Selected State and Province Symbols")</ref></cell>
+</row>
+<row>
+<cell>Wall Drug Store, Inc.</cell>
+<cell><ref n="egp.ii.057" type="credit">Wall Drug ("Ted Hustead in front of Wall Drug, ca. 1932")</ref></cell>    
+</row> 
+<row>
+<cell>Photo by Sarah Disbrow/Reprinted from Twenty-first Annual Report of the United States Geological Survey to the Secretary of the Interior, 1899-1900 by Charles D. Walcott. Washington DC: Government Printing Office, 1901/NARA-NWDNS, ID 111-SC-87733, Gallery of the Open Frontier</cell>
+<cell><ref n="egp.ii.001" type="credit">Images and Icons ("From Highway 56, near Gladstone, New Mexico")</ref></cell>
+</row>
+</table>
+
+<table>
+<head>Industry</head>
+<row>
+<cell>Craig R. MacPhee, Paul C. Burmeister College Professor of Economics</cell>
+<cell><ref n="egp.ind.032" type="credit">Commodity Exports of the Great Plains and Provinces in 1996</ref></cell>
+</row>
+<row>
+<cell>Northwest Missouri State University, Matthew Engel</cell>
+<cell><ref n="egp.ind.020" type="credit">Feedlots ("Feedlot East of Dodge City, Kansas")</ref></cell>    
+</row>
+<row>
+<cell>Phillips Petroleum Company, Corporate Archives</cell>
+<cell><ref n="egp.ind.000" type="credit">Frontispiece ("Anna Anderson #1, 1905")</ref></cell>
+</row>
+<row>    
+<cell>University of Nebraska Press, NARA-NWDNS, ID 233-TW-6, Gallery of the Open Frontier</cell>    
+<cell><ref n="egp.ind.007" type="credit">Banking ("Citizens Bank, Wharton, Oklahoma Territory, 1894")</ref></cell>
+</row>
+<row>
+<cell>Denver Public Library X-62647, Western History Collection, Call Number</cell>    
+<cell><ref n="egp.ind.001" type="credit">Industry ("The Ellison shaft group, cyanide plants, and the open cut at the Homestake Mine, Lead, South Dakota, between 1940 and 1950")</ref></cell>    
+</row>
+<row>    
+<cell>Denver Public Library X-9090, Western History Collection, Call Number</cell>    
+    <cell><ref n="egp.ind.019" type="credit">Farm Implements ("Implements store, Greeley, Colorado, ca. 1882")</ref></cell>    
+</row>
+<row>
+<cell>Justin Brands, Inc., a Berkshire Hathaway Inc. Company</cell>
+<cell><ref n="egp.ind.033" type="credit">Justin, H. J., and Sons (Joe and Annie Justin devised the first self-measuring kits for mail-order cowboy boots, 1907)</ref></cell>
+</row>
+<row>
+<cell>David J. Wishart, University of Nebraska</cell>
+<cell><ref n="egp.ind.028" type="credit">Homestake Mine ("Homestake Mine ca. 1930")</ref></cell>
+</row>
+</table>
+
+
+<table>
+<head>Introduction</head>
+<row>
+<cell>J. Clark Archer</cell>
+    <cell><ref n="intro.html">Map,"Population Density in the Great Plains, by county and census division, in the United States (2000 census) and Canada (1991 census)"</ref></cell>
+</row>
+<row> 
+    <cell><ref n="http://www.michaelforsberg.net/collections/prints/products/25">Courtesy Michael Forsberg</ref></cell>
+<cell>Book Jacket/site background image. Agate Fossil Beds National Monument, Nebraska</cell>
+</row>       
+</table>
+
+<table>
+<head>Law</head>
+<row>
+<cell>Courtesy of the Archives of Sacred Heart Monastery, Richarton, ND</cell>
+<cell><ref n="egp.law.037" type="credit">North Dakota Anti-Garb Law ("Rev. Mother Carmelita Schaan teaching at Saint Leo's, Minot, North Dakota")</ref></cell>
+</row>
+<row>
+<cell>Wyoming State Archives, Department of State Parks and Cultural Resources</cell>
+<cell><ref n="egp.law.034" type="credit">Morris, Esther ("Esther Morris")</ref></cell>
+</row>
+<row>
+<cell>L. J. Hinton</cell>
+<cell><ref n="egp.law.008" type="credit">Bonnie and Clyde ("Bonnie and Clyde on a road between Dallas and Marshall, Texas, shortly after the car pictured was stolen, 1933")</ref></cell>
+</row>
+<row>
+<cell>Denver Public Library X-31567, Western History Collections</cell>    
+<cell><ref n="egp.law.022" type="credit">Indian Police ("Mounted Dakota Sioux Indian police, Rosebud Agency, South Dakota 1896")</ref></cell>    
+</row>
+<row>
+<cell>Denver Public Library Z-2572, Western History Collections(Photo by M. E. Jacobson)</cell>    
+<cell><ref n="egp.law.047" type="credit">Texas Rangers ("Texas Rangers between 1890 and 1900")</ref></cell>
+</row>
+<row>    
+<cell>Denver Public Library Rh-1285, Western History Collections(Photo by Harry M. Rhoads)</cell>    
+<cell><ref n="egp.law.053" type="credit">White, Byron ("University of Colorado football star 'The Whizzer' Byron White [right] between 1930 and 1940")</ref></cell>    
+</row>
+<row>
+<cell>Russell Lee, Library of Congress, LC-USF33-012327-M5</cell>
+<cell><ref n="egp.law.023" type="credit">Jim Crow Laws ("Drinking at a 'colored' water cooler in a streetcar terminal, Oklahoma City, Oklahoma, July 1939")</ref></cell>
+</row>
+<row>
+<cell>National Archives of Canada, Stuart Taylor Wood Collection C18046</cell>
+<cell><ref n="egp.law.000" type="credit">Frontispiece ("Mounted troop of North-West Mounted Police Lancers in front of main gate, Fort Walsh, Saskatchewan, 1878")</ref></cell>
+</row>
+</table>
+
+<table>
+<head>Literary Traditions</head>
+<row>
+<cell>Herbert Hoover Presidential Library-Museum ( Neg. No  RWC 136)</cell>
+<cell><ref n="egp.lt.082" type="credit">Wilder, Laura Ingalls ("Laura Ingalls Wilder, 1918")</ref></cell>
+</row>
+<row>
+<cell>981-149. Montana Historical Society Research Center, Photograph Archives</cell>
+<cell><ref n="egp.lt.000" type="credit">Frontispiece ("O. D. Wheeler interviewing Cheyennes, including White Bull about the Battle of the Little Bighorn, June, 1901")</ref></cell>
+</row>
+<row>
+<cell>Oklahoma Historical Society, Archives and Manuscripts Division, Barde Collection, Photo Number 4213</cell>
+<cell><ref n="egp.lt.061" type="credit">Posey, Alexander ("Alexander Posey, 1908")</ref></cell>
+</row>
+<row>
+<cell>Meredith McClain, Texas Tech University, </cell>
+<cell><ref n="egp.lt.042" type="credit">May, Karl ("Karl May dressed as 'Old Shatterhand'")</ref></cell>
+</row>
+<row>
+<cell>The John G. Neihardt, Papers, c.1858-1974, Western Historical Manuscript Collection-Columbia, MO.</cell>
+<cell><ref n="egp.lt.052" type="credit">Neihardt, John G. ("Black Elk and John G. Neihardt at the Sioux Victory celebration at Pine Ridge, South Dakota, September 1945")</ref></cell>
+</row>
+<row>
+<cell>Alexander Mitchell Library</cell>
+<cell><ref n="egp.lt.003" type="credit">Baum, L. Frank ("L. Frank Baum, ca. 1900")</ref></cell>
+</row>
+<row>
+<cell>Francois Ricard/Fonds Gabrielle Roy/Library and Archives Canada Literary Archive NL-17530</cell>
+<cell><ref n="egp.lt.069" type="credit">Roy, Gabrielle ("Gabrielle Roy at her sister Adele's house in Tangent, Alberta, 1942")</ref></cell>
+</row>
+</table>
+
+
+<table>
+<head>Media</head>
+<row>
+<cell>David and Barbara White Walker, William Allen White Library, Emporia State University</cell>
+<cell><ref n="egp.med.049" type="credit">White, William Allen ("William Allen White at his <hi rend="italics">Gazette</hi> desk, ca. 1909")</ref></cell>
+</row>
+<row>
+<cell>John Vachon, Library of Congress, LC-USF34-061682-D</cell>
+<cell><ref n="egp.med.037" type="credit">Radio ("Listening to the radio, Aberdeen, South Dakota, November 1940")</ref></cell>
+</row>
+<row>
+<cell>National Museum of American History</cell>
+    <!-- Broken Link -->
+<cell><ref n="egp.med.000">Frontispiece ("Western Union Telegraph Office, Wichita, Kansas, ca. 1912")</ref></cell>
+</row>
+
+</table>
+
+<table>
+<head>Music</head>
+<row>
+<cell>Texas Tech University. Photo courtesy of Southwest Collection/Special Collections Library, SWCPS #356-E2, #14</cell>
+<cell><ref n="egp.mus.000" type="credit">Frontispiece ("The Original Light Crust Dough Boys, 1931")</ref></cell>
+</row>
+<row>
+<cell>Lodgepole Depot Museum</cell>
+<cell><ref n="egp.mus.018" type="credit">Frontier Opera Houses ("Lodgepole, Nebraska, Opera House, built in 1901, closed in the late 1940s")</ref></cell>
+</row>
+<row>
+<cell>Stillwater NewsPress</cell>
+<cell><ref n="egp.mus.006" type="credit">Brooks, Garth ("Garth Brooks, 1987")</ref></cell>
+</row>
+<row>
+<cell>Courtesy of Fort Seward Historical Society and Stutsman County Memorial Museum</cell>
+<cell><ref n="egp.mus.028" type="credit">Lee, Peggy ("Peggy Lee")</ref></cell>
+</row>
+<row>
+<cell>The Welk Group, Inc.</cell>
+<cell><ref n="egp.mus.049" type="credit">Welk, Lawrence ("Lawrence Welk")</ref></cell>
+</row>
+</table>
+
+<table>
+<head>Native Americans</head>
+<row>
+<cell>Fort Sill National Historic Landmark Museum</cell>
+<cell><ref n="egp.na.127" type="credit">Wichitas ("Wichita Indian grass house")</ref></cell>
+</row>
+<row>
+<cell>William Lauer, Lincoln Journal Star. http://journalstar.com/services/library/#permissions</cell>
+<cell><ref n="egp.na.000" type="credit">Frontispiece ("Rally marchers leave Pine Ridge, South Dakota, on their way to Whiteclay, Nebraska, on June 26, 1999. The demonstration by Native Americans protested the sale of alcohol and unsolved murders in Whiteclay")</ref></cell>    
+</row>
+<row>
+<cell>National Anthropological Archives, Smithsonian Institution(Neg. 3686; GN 03686)</cell>
+<cell><ref n="egp.na.118" type="credit">Treaties ("U. S. Army Commissioners in Council with Chiefs, Fort Laramie, 1868")</ref></cell>
+</row>	
+<row>
+<cell>University of Nebraska Press, NARA-NWDNS, ID 79-PS(SB)(PHO)-2559. Gallery of the Open Frontier/Photo by Oliver Buell, 1885. Saskatchewan Archives Board. Photograph No. R-B8775./Map by J. Clark Archer. U.S. Census Bureau, "Census 2000 Redistricting Data (Public Law 94-171 Summary File) Table QT-PL Race, Hispanic or Latino, and Age: 2000"</cell>    
+<cell><ref n="egp.na.001" type="credit">Native Americans ("Sitting Bull [Tatanka Iyotanka], 1885"; "Chief Poundmaker[Pitikwahanapiwiyin]"; "Native American population in the U. S. Great Plains as a percentage of total population by county, in 2000")</ref></cell>
+</row> 
+<row>
+<cell>University of Nebraska Press, NARA-NWDNS, ID 111-SC-87732, Gallery of the Open Frontier</cell>    
+<cell><ref n="egp.na.025" type="credit">Dull Knife ("Dull Knife [Wo'he Hiv'])"</ref></cell>    
+</row>
+<row>
+<cell>University of Nebraska Press, NARA-NWDNS, ID 111-SC-87722, Gallery of the Open Frontier</cell>    
+<cell><ref n="egp.na.081" type="credit">Parker, Quanah ("Quanah Parker")</ref></cell>    
+</row>
+<row>
+<cell>University of Nebraska Press, NARA-NWDNS, ID 75-PT(PHO)-4, Gallery of the Open Frontier</cell>
+<cell><ref n="egp.na.091" type="credit">Powwows ("Powwow at Potawatomi Indian Agency, Kansas, ca. 1920")</ref></cell>    
+</row>
+<row>
+<cell>Mark Awakuni-Swetland</cell>
+<cell><ref n="egp.na.058" type="credit">Languages ("Classification of Native Languages of the Great Plains")</ref></cell>
+</row>	
+<row>    
+<cell>Archives of Manitoba Boundary Commission 164(N14100)/ Sharon Foley</cell>
+<cell><ref n="egp.na.063" type="credit">Metis ("Metis Traders, 1872-74")</ref></cell>
+</row>	    
+<row>
+<cell>Alan Osborn, San Diego State University</cell>
+<cell><ref n="egp.na.080" type="credit">Paleo-Indians ("Selected Paleo-Indian sites in the Great Plains" Map)</ref></cell>
+</row>
+</table>
+
+<table>
+<head>Physical Environment</head>
+<row>
+<cell>Kansas State Historical Society(FK2.52 S.4 D.1935*L) </cell>
+<cell><ref n="egp.pe.022" type="credit">Dust Bowl ("Dust cloud rolling over western Kansas town,February 21, 1935")</ref></cell>
+</row>	
+<row>
+<cell>Courtesy of Paul Johnsgard/Department of the Anthropology and Geography, UNL/NARA-NRE, ID 75-scprseries 175-1139, Gallery of the Open Frontier</cell>
+<cell><ref n="egp.pe.000" type="credit">Frontispiece ("Lesser Sandhill Crane spring flock in Nebraska")</ref></cell>
+</row>
+<row>
+<cell>James Swinehart, University of Nebraska</cell>
+<cell><ref n="egp.pe.028" type="credit">Geology ("Generalized Chart of Rocks of the Great Plains")</ref></cell>
+</row>
+<row>
+<cell>Ansel Adams; University of Nebraska Press; NARA-NWDNS ID 79-AA-W02; Gallery of the Open Frontier</cell>    
+<cell><ref n="egp.pe.017" type="credit">Carlsbad Caverns ("Giant Domes, Carlsbad Caverns National Park, New Mexico, 1933-42")</ref></cell>
+</row>
+<row>
+<cell>University of Nebraska Press, NARA-NRE, ID 75-CR(PHO)-1119, Gallery of the Open Frontier</cell>    
+<cell><ref n="egp.pe.031" type="credit">Grasshoppers ("Grasshoppers, Cheyenne River Indian Agency, South Dakota, 1936")</ref></cell>    
+</row>
+<row>
+<cell>From Modern Physical Geography, Arthur Strahler, Reprinted by permission of John Wiley &amp; Sons, Inc.</cell>
+<cell><ref n="egp.pe.011" type="credit">Black Hills ("Black Hills diagram")</ref></cell>
+</row>
+<row>
+<cell>NOAA</cell>
+<cell><ref n="egp.pe.061" type="credit">Tornadoes (Map: Average annual tornado incidence per 10,000 square miles from 1970 to 1997)</ref></cell>
+</row>
+<row>
+<cell>NOAA Photo Library, OAR/ERL/National Severe Storms Laboratory (NSSL), Image ID: NSSL0053.</cell>
+<cell><ref n="egp.pe.061" type="credit">Tornadoes ("Tornado at the beginning of life, Cordell, Oklahoma, May 22, 1981")</ref></cell>
+</row>
+<row>
+<cell>Hugh Genoways and Margaret Bolick, University of Nebraska-Lincoln</cell>
+<cell><ref n="egp.pe.024" type="credit">Endangered Species ("Endangered Flora and Fauna of the Great Plains" 2001)</ref></cell>
+</row>
+</table>
+
+<table>
+<head>Politics and Government</head>
+<row>
+<cell>The Glenbow Archives(NA-3818-8)</cell>
+<cell><ref n="egp.pg.023" type="credit">Federal Government, Canada ("Political cartoon, "Putting on the screws")</ref></cell>
+</row>
+<row>
+<cell>Lyndon B. Johnson Library</cell>
+<cell><ref n="egp.pg.034" type="credit">Johnson, Lyndon Baines ("Lyndon Baines Johnson and Secretary of Agriculture Orville Freeman at LBJ Ranch, November 1964")</ref></cell>
+</row>
+<row>
+<cell>Nebraska State Historical Society, RG2916</cell>
+<cell><ref n="egp.pg.002" type="credit">Abbott, Grace ("Grace Abbott")</ref></cell>
+</row>
+<row>
+<cell>Provincial Archives of Alberta(Neg. No. A 9154)</cell>
+<cell><ref n="egp.pg.027" type="credit">Forty-ninth Parallel ("Earthen Boundary Marker at the Forty-ninth Parallel")</ref></cell>
+</row>
+<row>    
+<cell>Photo by T. R. Melville-Ness. Courtesy of Moira Remmen and The Saskatchewan Archives Board(Melville-Ness Collection, S-MN-B3469)</cell>
+<cell><ref n="egp.pg.020" type="credit">Douglas, Tommy ("Tommy Douglas") </ref></cell>
+</row>	
+<row>
+<cell>Courtesy of the Hon. Ken Kowalski, Speaker of the Legislative Assembly of Alberta.</cell>
+<cell><ref n="egp.pg.003" type="credit">Alberta ("Alberta Legislature building, Edmonton")</ref></cell>
+</row>
+<row>
+<cell>University of Wyoming (American Heritage Center), Negative No. 22281</cell>
+<cell><ref n="egp.pg.086" type="credit">Warren, Francis ("Francis Warren")</ref></cell>
+</row>
+<row>
+<cell>Archer, J. Clark, Stephen J. Lavin, Kenneth C. Martis, and Fred M. Shelley, Atlas of American Politics, 1960-2000. Washington, DC: Congressional Quarterly Press, 2002.</cell>
+<cell><ref n="egp.pg.085" type="credit">Voting Patterns, United States (Map)</ref></cell>
+</row>
+<row>    
+<cell>Denver Public Library Rh-450, Western History Collection, Photo by Harry M. Rhoads</cell>    
+<cell><ref n="egp.pg.007" type="credit">Bryan, William Jennings ("William Jennings Bryan between 1900 and 1910")</ref></cell>
+</row>
+<row>    
+<cell>Denver Public Library Rh-5940, Western History Collection, Photo by Harry M. Rhoads</cell>    
+<cell><ref n="egp.pg.021" type="credit">Eisenhower, Dwight D. (Dwight D. Eisenhower, June 1952)</ref></cell>
+</row>
+<row>
+<cell>Diefenbaker Canada Centre at University of Saskatchewan</cell>
+<cell><ref n="egp.pg.017" type="credit">Frontispiece ("John Diefenbaker")</ref></cell>
+</row>
+<row>
+<cell>University of Iowa Libraries, Traveling Culture Series</cell>
+<cell><ref n="egp.pg.067" type="credit">Rankin, Jeanette ("Jeanette Rankin")</ref></cell>
+</row>
+</table>
+
+<table>
+<head>Protest and Dissent</head>
+<row>
+<cell>Courtesy of the Tamiment Institute Library, New York University</cell>
+    <!-- Broken Link -->
+<cell><ref n="egp.pd.067" type="credit">O'Hare, Kate Richards ("Kate Richards O'Hare and family")</ref></cell>
+</row>
+<row>
+<cell>Photo by G. Jill Evans, Oklahoma City National Memorial</cell>
+<cell><ref n="egp.pd.041" type="credit">Oklahoma City Bombing ("Oklahoma City National Memorial, Field of Empty Chairs")</ref></cell>
+</row>
+<row>
+<cell>Provincial Archives of Manitoba, Neg. No. N2762, Collection Foote 1696</cell>
+<cell><ref n="egp.pd.057" type="credit">Winnipeg General Strike ("Winnipeg General Strike, June 21, 1919")</ref></cell>
+</row>
+<row>    
+<cell>Denver Public Library Z-125, Western History Collection</cell>    
+<cell><ref n="egp.pd.005" type="credit">American Indian Movement ("American Indian Movement, Wounded Knee, South Dakota, March 2, 1973")</ref></cell>    
+</row>
+<row>    
+<cell>Denver Public Library X-21542, Western History Collection</cell>    
+<cell><ref n="egp.pd.031" type="credit">Ku Klux Klan ("Ku Klux Klan, probably in Denver, Colorado, between 1921 and 1930")</ref></cell>
+</row>
+<row>    
+<cell>Denver Public Library H-117, Western History Collection Photo by Rose and Hopkins)</cell>    
+<cell><ref n="egp.pd.046" type="credit">Reed, Myron ("Myron Reed, between 1886 and 1901")</ref></cell>    
+</row>
+<row>
+<cell>Library of Congress, US News and World Reports Collection, LC-U9-11695</cell>
+<cell><ref n="egp.pd.033" type="credit">Malcolm X ("Malcolm X")</ref></cell>
+</row>
+<row>
+<cell>Provincial Archives of Manitoba, Neg. No. N 2742, Collection: Foote 1676</cell>
+<cell><ref n="egp.pd.000" type="credit">Frontispiece ("Meeting at Victoria Park, Winnipeg, Manitoba, June 13, 1919")</ref></cell>
+</row>
+<row>
+<cell>Provincial Archives of Manitoba/ Sharon Foley (Neg. No. N9582 Collection: Events 145)</cell>
+ <cell><ref n="egp.pd.047" type="credit">Riel, Louis ("Hanging of Louis Riel in effigy, July 1885.")</ref></cell>    
+</row>    
+</table>
+
+<table>
+<head>Religion</head>
+<row>
+
+<cell>David Kingman, archivist/ Courtesy Jesuit Oregon Province Archives, Spokane, WA (Negative Number 802.01)</cell>
+<cell><ref n="egp.rel.014" type="credit">De Smet, Pierre-Jean ("Pierre-Jean De Smet, S. J. seated formal pose, ca. 1864")</ref></cell>
+</row>
+<row>
+<cell>University of Winnipeg, courtesy John C. Lehr</cell>
+<cell><ref n="egp.rel.019" type="credit">Eastern Orthodox ("Saint Michael's Ukranian Orthodox Church, Gardenton, Manitoba, built in 1935")</ref></cell>    
+</row>	
+<row>
+<cell>University of Calgary</cell>
+<cell><ref n="egp.rel.018" type="credit">Doukhobors ("Ruins of a prayer home near Kamsack, Saskatchewan," and "Doukhobor prayer home in Saskatoon, Saskatchewan")</ref></cell>
+</row>	
+<row>
+<cell>Denver Public Library X-31818, Western History Collection</cell>
+<cell><ref n="egp.rel.005" type="credit">Black Elk, Nicholas ("Nick Black Elk and Family, Catholic Catechist")</ref></cell>
+</row>
+<row>
+<cell>Oral Roberts University</cell>
+<cell><ref n="egp.rel.042" type="credit">Roberts, Oral ("Prayer Tower at Oral Roberts University")</ref></cell>
+</row>  
+<row>
+<cell>John Vachon, Library of Congress, LC-USF34-064657-D</cell>
+<cell><ref n="egp.rel.000" type="credit">Frontispiece ("Church in Hettinger, North Dakota, 1942")</ref></cell>
+</row>
+<row>
+<cell>Fred Hulstrand History in Pictures Collection</cell>
+<cell><ref n="egp.rel.043" type="credit">Roman Catholicism ("Mexican Catholic church, Deming, NM, 1910-1949")</ref></cell>
+</row>
+</table>
+
+<table>
+<head>Sports and Recreation</head>
+<row>
+<cell>National Cowboy &amp; Western Heritage Museum, Oklahoma City, OK</cell>
+<cell><ref n="egp.sr.049" type="credit">Shoulders, Jim ("Jim Shoulders rides an unknown bareback bronc at the Capitol Hill Night Rodeo in Oklahoma City, Oklahoma, 1950.")</ref></cell>
+</row>
+<row>
+<cell>Nebraska State Historical Society, 11055-589</cell>
+<cell><ref n="egp.sr.002" type="credit">Alexander, Grover Cleveland ("Grover Cleveland Alexander")</ref></cell>
+</row>
+<row>
+<cell>South Dakota Tourism</cell>
+<cell><ref n="egp.sr.053" type="credit">Sturgis Motorcycle Rally ("Sturgis [South Dakota] Motorcycle Rally and Races")</ref></cell>
+</row>
+<row>
+<cell>Courtesy Cumberland County Historical Society, photo #15A-02-01</cell>
+<cell><ref n="egp.sr.054" type="credit">Thorpe, Jim ("Jim Thorpe")</ref></cell>
+</row>
+<row>    
+<cell>Denver Public Library Z-741, Western History Colection</cell>    
+<cell><ref n="egp.sr.045" type="credit">Rodeo ("Homer Holcomb waves a cape at a Brahma bull, while another clown is thrown at the Colorado State Fair Rodeo in Pueblo, Colorado, between 1920 and 1930")</ref></cell>    
+</row> 
+<row>
+<cell>Winnifred Bloomquist</cell>
+<cell><ref n="egp.sr.014" type="credit">Curling ("Curlers from the Dakotah Curling Club, Drayton, North Dakota,1900-1905")</ref></cell>
+</row>
+<row>
+<cell>Tom Tidball</cell>
+<cell><ref n="egp.sr.000" type="credit">Frontispiece ("Six-man football, McCool Junction, Nebraska, 1998")</ref></cell>
+</row>
+</table>
+
+<table>
+<head>Transportation</head>
+<row>
+<cell>H. Roger Grant Collection, Clemson University</cell>
+<cell><ref n="egp.tra.000" type="credit">Frontispiece ("Burlington Railroad Depot, Beldon, Nebraska")</ref></cell>
+</row>
+<row>
+<cell>Colorado Historical Society. Neg.# F-37,547, Fritchle Boxed Collection</cell>
+<cell><ref n="egp.tra.002" type="credit">Automobiles ("Fritchie Electric on a cross-country trip, Denver, Colorado, 1908")"</ref></cell>
+</row>
+<row>
+<cell>Oklahoma State University Archives</cell>
+<cell><ref n="egp.tra.023" type="credit">Parking Meter ("World's first installed parking meter, Oklahoma City, Oklahoma, 1935")</ref></cell>
+</row>
+<row>
+<cell>William Henry Jackson, University of Nebraska Press, NARA-NWDNS, ID 57-HS-299, Gallery of the Open Frontier</cell>    
+<cell><ref n="egp.tra.024" type="credit">Pony Express ("Ruins of Three Crossings stage station along the route of the Pony Express, Wyoming 1870")</ref></cell>
+</row>
+<row>
+<cell>Denver Public Library X-27500, Western History Collection</cell>    
+<cell><ref n="egp.tra.003" type="credit">Aviation ("Fuel truck and biplane at Denver Colorado Municipal Airport, between 1929 and 1935")</ref></cell>
+</row>    
+<row>
+<cell>Denver Public Library X-21916, Western History Collection</cell>    
+<cell><ref n="egp.tra.022" type="credit">Oregon Trail ("A man shows the width of the Oregon Trail, between 1920 and 1930")</ref></cell>
+</row>
+<row>
+<cell>National Archives and Records Administration (United States)(156-TMC-64202)</cell>
+<cell><ref n="egp.tra.037" type="credit">Transcontinental Motor Convoy ("Caught in time between prairie schooners and eighteen-wheelers, the 1919 khaki-covered truck train exits Nebraska")</ref></cell>
+</row>
+<row>
+<cell>The National Archives (United States)</cell>
+<cell>Exploration and Surveys for a Railroad from the Mississippi River to the Pacific Ocean</cell>
+</row>	
+</table>
+
+<table>
+<head>War</head>
+<row>
+<cell>Courtesy Palace of the Governors Photo Archives (NMHM/DCA) Neg. No. 30759</cell>
+<cell><ref n="egp.war.024" type="credit">Lincoln County War ("Wiliam H. Bonney [Billy the Kid] ca. 1879")</ref></cell>
+</row>
+<row>
+<cell>Nebraska State Historical Society</cell>
+<cell><ref n="egp.war.017" type="credit">Frontier Forts ("Fort Laramie, Wyoming")</ref></cell>
+</row>
+<row>
+<cell>Nebraska State Historical Society, RG2845:13-10</cell>
+<cell><ref n="egp.war.056" type="credit">Wounded Knee Massacre ("Gathering up the dead, Wounded Knee, South Dakota")</ref></cell>
+</row>
+<row>
+<cell>University of Nebraska Press, NARA-NWDNS, ID 111-SC-82552, Gallery of the Open Frontier</cell>
+<cell><ref n="egp.war.000" type="credit">Frontispiece ("Cheyenne Indian scouts at Fort Reno, Indian Territory")</ref></cell>    
+</row>
+<row>
+<cell>University of Nebraska Press, NARA-NWDNS, ID 111-SC-82355, Gallery of the Open Frontier</cell>    
+<cell><ref n="egp.war.015" type="credit">Crook, George ("Gen. George Crook')</ref></cell>
+</row>
+<row>
+<cell>Denver Public Library Rh-866, Western History Collection (Photo by Harry M. Rhoads)</cell>    
+<cell><ref n="egp.war.034" type="credit">Pershing, John J. ("Gen. John J. Pershing shakes hands with army soldier at U. S. Army General Hospital No. 21 [now called Fitzsimons] January 13, 1920")</ref></cell>
+</row>
+</table>
+
+<table>
+<head>Water</head>
+<row>    
+<cell>David E. Kromm, Kansas State University</cell>
+<cell><ref n="egp.wat.011" type="credit">Irrigation ("Center-pivot sprinkler irrigation system, Alberta")</ref></cell>
+</row>
+<row>
+<cell>Thomas K. Larson, Nebraska Public Power District</cell>
+<cell><ref n="egp.wat.037" type="credit">Water Towers ("Towers, Nebraska Public Power District structure, April 1991")</ref></cell>
+</row>
+<row>
+<cell>Dick Larson, University of North Dakota</cell>
+<cell><ref n="egp.wat.000" type="credit">Frontispiece ("Flooding in Grand Forks, North Dakota, and East Grand Forks, Minnesota, 1997")</ref></cell>
+</row>   
+<row>    
+<cell>John E. Simmons, Museologica. University of Kansas</cell>
+<cell><ref n="egp.wat.027" type="credit">Rivers ("Platte River State Park, Nebraska, May 1989")</ref></cell>
+</row>
+</table>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,489 @@
+
+
+/* Primary Styles
+    Author: Karin Dalziel
+ */
+ 
+html {
+	background: #ddae7e url(../../imgs/bg.jpg) fixed;
+}
+
+.all {
+	width: 960px;
+	margin: auto;
+}
+
+.header {
+	
+	padding: 10px 0 10px 0;
+	color: #fff;
+}
+
+.header a{
+	text-decoration: none;
+	color: #fff;
+}
+
+.header h1 {
+	text-shadow: 4px 4px 7px #5f483e;
+}
+
+.header h1 .titleFirst {
+	font-size: 1.7em;
+	font-variant: normal;
+	text-transform: uppercase;
+	display: block;
+	padding-left: 50px;
+	font-family: "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+}
+
+.header h1 .titleSecond {
+	font: normal normal 100 4.2em "Times New Roman", Times, serif;
+	display: block;
+	padding-left: 150px;
+	margin-top: -.2em;
+}
+
+.header h2 {
+	text-align: right;
+	padding-right: 0px;
+	color: #7c7d7c;
+	font-size: 1.3em;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	text-transform: uppercase;
+	position: absolute;
+	right: 20px;
+	top: 15px;
+}
+
+.header h2 a {
+	color: #7c7d7c;
+	
+}
+
+.header form {
+	width: 300px;
+	position: absolute;
+	right: 0px;
+	top: 65px;
+}
+
+.navigation ul {
+	text-align: center;
+	list-style: none;
+	margin: 0 0 20px 0;
+	padding: 0;
+	background: url(../../imgs/bg70.png);
+	background: RGBA(48, 38, 34, .7);
+	height: 40px;
+	font-size: 1.2em;
+
+}
+
+.navigation li {
+	display: block;
+	width: 192px;
+	float: left;
+	height: 32px;
+	padding-top: 8px;
+}
+
+.navigation li:hover {
+	/*background-color: #262726;*/
+	background: url(../../imgs/bg90.png);
+	background-color: RGBA(48, 38, 34, .9);
+	
+}
+
+.navigation li a {
+	text-decoration: none;
+	color: #fff;
+
+}
+
+.main {
+	/*background-color: #3f322d;*/
+	padding: 10px 40px;
+	overflow:auto;
+}
+
+.main {
+	background: url(../../imgs/bg70.png);
+	background: RGBA(48, 38, 34, .7);
+}
+
+.surround {
+	padding: 20px 40px;
+	background-color: #E4DFD3;
+	overflow: auto;
+	
+}
+
+.main p {
+	line-height: 1.4;
+}
+
+p {
+	padding: 5px 0;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+ video {
+	float: right;
+	clear: right;
+}
+
+.main p.bibl {
+	font-size: .8em;
+	padding-top: 15px;
+}
+
+table {
+	margin-top: 40px 0;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	border-bottom: 1px solid #7c7c7c;
+	border-top: 1px solid #7c7c7c;
+	padding: 10px;
+	margin: 10px;
+	display: block;
+}
+
+td {
+	padding: 2px 20px 0 2px;
+	
+}
+
+.credits td {
+	width: 50%;
+	font-size: .9em;
+	
+}
+
+#footer {
+	background: url(../../imgs/bg70.png);
+	background: RGBA(48, 38, 34, .7);
+	padding: 20px;
+	margin-top: 20px;
+	overflow:auto;
+	clear: both;
+	
+
+}
+
+#footer p {
+	width: 600px;
+	float: left;
+	color: #fff;
+}
+
+#footer img {
+	float: right;
+}
+
+.doc .figures {
+	width: 308px;
+	float: right;
+	padding: 0 0 10px 20px;
+}
+
+.doc .figures img {
+	width: 300px;
+	padding: 3px;
+	border: 1px solid #4b4342;
+	background-color: #fff;
+}
+
+.doc .figures p {
+	font-size: .8em;
+	font-style: italic;
+}
+
+.image .figures {
+	
+}
+
+.image .figures img {
+	width: 800px;
+	padding: 3px;
+	border: 1px solid #4b4342;
+	background-color: #fff;
+}
+
+.image .figures p {
+
+	font-style: italic;
+}
+
+
+/* MAIN PAGE */
+
+.all {
+	position: relative;
+}
+
+
+
+.home .home {
+	display: none;
+}
+
+.home .header {
+
+}
+
+.home .header a{
+
+}
+
+.home .header h1 .titleFirst {
+	font-size: 2em;
+	
+	display: block;
+	padding-left: 0px;
+	
+}
+
+.home .header h1 .titleSecond {
+	
+	display: block;
+	padding-left: 50px;
+	margin-top: -.2em;
+	font-size: 7em;
+}
+
+.home .header h2 {
+	
+}
+
+.home .header h2 a {
+	color: #7c7d7c;
+	
+}
+
+.home .navigation li {
+	width: 240px;
+}
+
+
+
+
+
+.home .main {
+	padding: 0;
+	/*background: url(../../imgs/bg70.png);
+	background: RGBA(48, 38, 34, .7);*/
+	/*background: #000;*/
+}
+
+.home .surround {
+	padding:0px;
+	margin: 0px;
+	background: none;
+	z-index:5;
+	position: relative;
+	color: #fff;
+
+}
+
+.home .surround .ul {
+	position: relative;
+}
+
+.introtext {	
+    background: #271F1D;
+	background: RGBA(48, 38, 34, .7);
+	margin: 0;
+	padding: 0;
+	padding-top: 10px;
+	}
+
+.home .surround p {
+	padding: 10px 40px 20px 40px ;
+}
+
+.home .main h2, .home .main p {
+	/*display: none;*/
+}
+
+.home .main ul {
+	list-style: none;
+	margin: 0;
+	margin-top: 20px;
+	clear: both;
+	display: inline;
+}
+
+.home .main li {
+	position: relative;
+	display: inline;
+}
+
+.home .main li a {
+	width: 300px;
+	padding: 12px 10px;
+	float: left;
+	color: #fff;
+	text-decoration: none;
+	text-align: center;
+	position: relative;
+}
+
+.home .main li a:hover {
+	/*background-color: #262726;*/
+	background: url(../../imgs/bg90.png);
+	background: RGBA(48, 38, 34, .9);
+}
+
+/* GENERAL */
+
+h2 {
+	font-size: 1.4em;
+	padding: 10px 0;
+}
+
+h3 {
+	font-size: 1.2em;
+	padding: 10px 0;
+}
+
+h4 {
+	font-size: 1em;
+	padding: 10px 0;
+}
+
+.main .surround h4 {
+	padding: 0;
+}
+
+
+/*  -----------  */
+
+.alphaList {
+	list-style: none;
+	/*display: block;*/
+	/*width: 100%;*/
+	margin:0;
+	padding: 5px 0 0 0;
+	height: 40px;
+
+} 
+
+.alphaList li {
+	display: inline;
+	
+
+}
+
+.alphaList li a {
+background-color: #cfcabf;
+padding: 7px;
+font-size: 18px;
+color: #443734;
+text-decoration: none;
+text-transform: capitalize;
+}
+
+.alphaList li a:hover {
+background-color: #7e6b72;
+
+color: #fff;
+}
+
+ul {
+	/*clear: both;*/
+}
+
+.a .a a, 
+.b .b a, 
+.c .c a,
+.d .d a,
+.e .e a, 
+.f .f a,
+.g .g a, 
+.h .h a,
+.i .i a,
+.j .j a,
+.k .k a,
+.l .l a,
+.m .m a,
+.n .n a,
+.o .o a,
+.p .p a,
+.q .q a,
+.r .r a,
+.s .s a,
+.t .t a,
+.u .u a,
+.v .v a,
+.w .w a,
+.x .x a,
+.y .y a,
+.z .z a {
+	background-color: #493835;
+	color: #fff;
+}
+
+ul.contributors {
+	list-style: none;
+	margin: 0;
+}
+
+ul.contributors ul {
+padding-bottom: 5px
+}
+
+/* 
+ * print styles
+ * inlined to avoid required HTTP connection www.phpied.com/delay-loading-your-print-css/ 
+ */
+@media print {
+  * { background: transparent !important; color: #444 !important; text-shadow: none; }
+
+
+
+  a, a:visited { color: #444 !important; text-decoration: underline; }
+
+  a:after { content: " (" attr(href) ")"; } 
+
+  abbr:after { content: " (" attr(title) ")"; }
+  
+  .ir a:after { content: ""; }  /* Don't show links for images */
+  
+  pre, blockquote { border: 1px solid #999; page-break-inside: avoid; }
+  
+  img { page-break-inside: avoid; }
+
+  @page { margin: 0.5cm; }
+
+  p, h2, h3 { orphans: 3; widows: 3; }
+
+  h2, h3{ page-break-after: avoid; }
+}
+
+
+
+/*
+ * Media queries for responsive design
+ */
+
+@media all and (orientation:portrait) { 
+  /* Style adjustments for portrait mode goes here */
+  
+}
+
+@media all and (orientation:landscape) { 
+  /* Style adjustments for landscape mode goes here */
+  
+}
+
+/* Grade-A Mobile Browsers (Opera Mobile, iPhone Safari, Android Chrome)  
+   Consider this: www.cloudfour.com/css-media-query-for-mobile-is-fools-gold/ */
+@media screen and (max-device-width: 480px) {
+  
+  
+  /* Prevent iOS, WinMobile from adjusting font size */
+  html { -webkit-text-size-adjust:none; -ms-text-size-adjust:none; } 
+}
+
+
+

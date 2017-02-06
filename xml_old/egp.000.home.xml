@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.000.home">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Encyclopedia of the Great Plains Home</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.000.home</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+
+
+
+<p>The Great Plains is a vast expanse of grasslands stretching from the Rocky Mountains to the Missouri River and from the Rio Grande to the coniferous forests of Canada&#8212;an area more than eighteen hundred miles from north to south and more than five hundred miles from east to west. The Great Plains region includes all or parts of Texas, New Mexico, Oklahoma, Kansas, Colorado, Nebraska, Wyoming, South Dakota, North Dakota, Montana, Alberta, Saskatchewan, and Manitoba. The region, once labeled "the Great American Desert," is now more often called the "heartland," or, sometimes, "the breadbasket of the world." Its immense distances, flowing grasslands, sparse population, enveloping horizons, and dominating sky convey a sense of expansiveness, even emptiness or loneliness, a reaction to too much space and one's own meager presence in it.</p>
+
+<p>The Plains region is the home of the Dust Bowl, the massacre at Wounded Knee, the North-West Rebellion, the Tulsa race riot, the Lincoln County War, the purported Roswell alien landing, and the Sturgis Motorcycle Rally. Its products have included furs, cattle, corn, wheat, oil, gas, and coal as well as jazz, literature, and political reform. It has been inhabited for more than twelve thousand years, since Paleo-Indians hunted mammoth and bison. More recent emigrants came from eastern North America, Europe, Latin America, and Asia, resulting in a complex and distinctive ethnic mosaic.</p>
+
+<p>With 1,316 entries contributed by more than one thousand scholars, this groundbreaking reference work captures what is vital and interesting about the Great Plains&#8212;from its temperamental climate to its images and icons, its historical character, its folklore, and its politics.</p>
+
+
+</div1>
+
+
+</body>
+</text>
+</TEI>
