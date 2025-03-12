@@ -20,8 +20,11 @@
         <meta charset="utf-8"/>
 
         <title>
-          <xsl:text></xsl:text>
-          <xsl:value-of select="//div1[1]/head[1]"/> | Encyclopedia of the Great Plains
+          <xsl:if test="//div1[1]/head[1]">
+            <xsl:value-of select="//div1[1]/head[1]"/>
+            <xsl:text> | </xsl:text>
+            </xsl:if>
+          Encyclopedia of the Great Plains
         </title>
 
         <!-- Place favicon.ico and apple-touch-icon.png in the root of your domain and delete these references -->
@@ -38,11 +41,13 @@
       
       <body class="{$pagetype}">
 
-
-
-
-
           <header>
+            <a class="sr-only sr-only-focusable" href="#main_content">Skip to main content</a>
+            <div class="static-banner-wrapper">
+              <div class="static-banner">
+                <p>This version of the website was created in 2025. See the <a href="/info.html">Site Information Page</a> for contact information, data downloads, and other details.</p>
+              </div>
+            </div>
             <div class="all">
                 <div class="header">
                 <h1>
@@ -88,7 +93,7 @@
             </div>
           </header>
 
-          <main>
+          <main id="main_content">
             <div class="all">
                 <div class="content">
 
