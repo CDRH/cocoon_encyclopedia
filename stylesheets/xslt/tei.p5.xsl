@@ -20,8 +20,8 @@
         <meta charset="utf-8"/>
 
         <title>
-          <xsl:text>Encyclopedia of the Great Plains | </xsl:text>
-          <xsl:value-of select="//div1[1]/head[1]"/>
+          <xsl:text></xsl:text>
+          <xsl:value-of select="//div1[1]/head[1]"/> | Encyclopedia of the Great Plains
         </title>
 
         <!-- Place favicon.ico and apple-touch-icon.png in the root of your domain and delete these references -->
