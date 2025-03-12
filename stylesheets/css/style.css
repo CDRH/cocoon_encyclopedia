@@ -8,6 +8,12 @@ html {
 	background: #ddae7e url(../../imgs/bg.jpg) fixed;
 }
 
+/* Override reset.css link color */
+
+a, a:link, a:active, a:visited {
+  color: #30475e;
+}
+
 .all {
 	width: 960px;
 	margin: auto;
