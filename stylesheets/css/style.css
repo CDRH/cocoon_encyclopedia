@@ -180,6 +180,15 @@ td {
 	float: right;
 }
 
+#footer a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+#footer a:hover {
+  color: #ffe8b0;
+}
+
 .doc .figures {
 	width: 308px;
 	float: right;
