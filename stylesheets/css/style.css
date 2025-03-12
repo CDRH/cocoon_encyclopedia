@@ -47,7 +47,7 @@ html {
 .header h2 {
 	text-align: right;
 	padding-right: 0px;
-	color: #7c7d7c;
+	color: #483936;
 	font-size: 1.3em;
 	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 	text-transform: uppercase;
@@ -57,7 +57,7 @@ html {
 }
 
 .header h2 a {
-	color: #7c7d7c;
+	color: #483936;
 	
 }
 
@@ -256,7 +256,7 @@ td {
 }
 
 .home .header h2 a {
-	color: #7c7d7c;
+	color: #483936;
 	
 }
 
