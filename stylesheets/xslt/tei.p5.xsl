@@ -40,135 +40,145 @@
 
 
 
-        <div class="all">
 
 
-          <div class="header">
-            <h1>
-              <a href="{$siteroot}">
-                <span class="titleFirst">Encyclopedia of the</span>
-                <span class="titleSecond">Great Plains</span>
-              </a>
-              
-            </h1>
-            <h2>
-              <a href="{$siteroot}">David J. Wishart, Editor</a>
-            </h2>
-
-          </div>
-
-          <!-- /header -->
-
-
-          <div class="navigation">
-            <ul>
-              <li class="home">
-                <a href="{$siteroot}">Home</a>
-              </li>
-              <li class="intro">
-                <a href="{$siteroot}intro.html">Introduction</a>
-              </li>
-              <li class="intro">
-                <a href="{$siteroot}contents.html">Contents</a>
-              </li>
-              <li class="birds">
-                <a href="{$siteroot}contributors">Contributors</a>
-              </li>
-
-
-              <li class="about">
-                <a href="{$siteroot}about.html">About</a>
-              </li>
-
-            </ul>
-          </div>
-          <!-- /navigation -->
-
-          <div class="content">
-
-            <div class="main">
-              <div class="surround">
-                <!-- HOME  -->
-
-                <xsl:if test="$pagetype = 'home'">
-                  <xsl:call-template name="home"/>
-                </xsl:if>
-
-                <!-- CONTENTS  -->
-
-                <xsl:if test="$pagetype = 'contents'">
-                  <xsl:call-template name="contents"/>
-                </xsl:if>
-
-                <!--  CONTRIBUTORS -->
-
-                <xsl:if test="$pagetype = 'contributors'">
-                  <xsl:call-template name="contributors"/>
-                </xsl:if>
-
-                <!-- Introduction -->
-
-                <xsl:if test="$pagetype = 'intro'">
-                  <xsl:call-template name="intro"/>
-                </xsl:if>
-
-                <!--  SEARCHRESULTS -->
-
-                <xsl:if test="$pagetype = 'searchresults'">
-                  <xsl:call-template name="searchresults"/>
-                </xsl:if>
-
-                <!--  ABOUT -->
-
-                <xsl:if test="$pagetype = 'about'">
-                  <xsl:call-template name="about"/>
-                </xsl:if>
-                
-                <!--  ABOUT -->
-                
-                <xsl:if test="$pagetype = 'credits'">
-                  <xsl:call-template name="credits"/>
-                </xsl:if>
-
-                <!--  DOCUMENTS -->
-
-                <xsl:if test="$pagetype = 'doc'">
-                  <xsl:call-template name="doc"/>
-                </xsl:if>
-
-                <!--  IMAGES -->
-
-                <xsl:if test="$pagetype = 'image'">
-                  <xsl:call-template name="image"/>
-                </xsl:if>
-
-                <!--  ERROR - 404 -->
-
-                <xsl:if test="$pagetype = 'error'">
-                  <p>This page does not exist!</p>
-                  <p>Please use the navigation or the search at left to find what you are looking
-                    for.</p>
-                </xsl:if>
-
+          <header>
+            <div class="all">
+                <div class="header">
+                <h1>
+                  <a href="{$siteroot}">
+                    <span class="titleFirst">Encyclopedia of the</span>
+                    <span class="titleSecond">Great Plains</span>
+                  </a>
+                  
+                </h1>
+                <h2>
+                  <a href="{$siteroot}">David J. Wishart, Editor</a>
+                </h2>
+    
+    
               </div>
-              <!-- /main -->
-
+    
+              <!-- /header -->
+    
+    
+              <div class="navigation">
+                <ul>
+                  <li class="home">
+                    <a href="{$siteroot}">Home</a>
+                  </li>
+                  <li class="intro">
+                    <a href="{$siteroot}intro.html">Introduction</a>
+                  </li>
+                  <li class="intro">
+                    <a href="{$siteroot}contents.html">Contents</a>
+                  </li>
+                  <li class="birds">
+                    <a href="{$siteroot}contributors">Contributors</a>
+                  </li>
+    
+    
+                  <li class="about">
+                    <a href="{$siteroot}about.html">About</a>
+                  </li>
+    
+                </ul>
+              </div>
+              <!-- /navigation -->
             </div>
-            <!-- /surround -->
+          </header>
 
-          </div>
-          <!-- /content -->
+          <main>
+            <div class="all">
+                <div class="content">
 
-          <div id="footer">
-            <p>&#169; 2011 University of Nebraska&#8211;Lincoln<br/>Images are
-              &#169; their respective owners.<br/>
-              <a href="{$siteroot}credits.html">Image credits</a><br/></p>
-            <img src="{$siteroot}imgs/unl_logo.png" alt="University of Nebraska-Lincoln Logo"/>
-          </div>
-          <!-- /footer -->
+                <div class="main">
+                  <div class="surround">
+                    <!-- HOME  -->
+    
+                    <xsl:if test="$pagetype = 'home'">
+                      <xsl:call-template name="home"/>
+                    </xsl:if>
+    
+                    <!-- CONTENTS  -->
+    
+                    <xsl:if test="$pagetype = 'contents'">
+                      <xsl:call-template name="contents"/>
+                    </xsl:if>
+    
+                    <!--  CONTRIBUTORS -->
+    
+                    <xsl:if test="$pagetype = 'contributors'">
+                      <xsl:call-template name="contributors"/>
+                    </xsl:if>
+    
+                    <!-- Introduction -->
+    
+                    <xsl:if test="$pagetype = 'intro'">
+                      <xsl:call-template name="intro"/>
+                    </xsl:if>
+    
+                    <!--  SEARCHRESULTS -->
+    
+                    <xsl:if test="$pagetype = 'searchresults'">
+                      <xsl:call-template name="searchresults"/>
+                    </xsl:if>
+    
+                    <!--  ABOUT -->
+    
+                    <xsl:if test="$pagetype = 'about'">
+                      <xsl:call-template name="about"/>
+                    </xsl:if>
+                    
+                    <!--  ABOUT -->
+                    
+                    <xsl:if test="$pagetype = 'credits'">
+                      <xsl:call-template name="credits"/>
+                    </xsl:if>
+    
+                    <!--  DOCUMENTS -->
+    
+                    <xsl:if test="$pagetype = 'doc'">
+                      <xsl:call-template name="doc"/>
+                    </xsl:if>
+    
+                    <!--  IMAGES -->
+    
+                    <xsl:if test="$pagetype = 'image'">
+                      <xsl:call-template name="image"/>
+                    </xsl:if>
+    
+                    <!--  ERROR - 404 -->
+    
+                    <xsl:if test="$pagetype = 'error'">
+                      <p>This page does not exist!</p>
+                      <p>Please use the navigation or the search at left to find what you are looking
+                        for.</p>
+                    </xsl:if>
+    
+                  </div>
+                  <!-- /main -->
+    
+                </div>
+                <!-- /surround -->
+    
+              </div>
+              <!-- /content -->
+            </div>
+         </main>
 
-        </div>
-        <!-- /all -->
+          <footer>
+            <div class="all">
+                <div id="footer">
+                <p>&#169; 2011 University of Nebraska&#8211;Lincoln<br/>Images are
+                  &#169; their respective owners.<br/>
+                  <a href="{$siteroot}credits.html">Image credits</a><br/></p>
+                <img src="{$siteroot}imgs/unl_logo.png" alt="University of Nebraska-Lincoln Logo"/>
+              </div>
+              <!-- /footer -->
+            </div>
+          </footer>
+
 
         <!--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"><xsl:text> </xsl:text></script>
         <script type="text/javascript" src="{$siteroot}js/jQuery.jPlayer.2.0.0/jquery.jplayer.min.js"><xsl:text> </xsl:text></script>
