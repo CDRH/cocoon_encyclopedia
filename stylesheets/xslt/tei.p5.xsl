@@ -55,16 +55,6 @@
               <a href="{$siteroot}">David J. Wishart, Editor</a>
             </h2>
 
-
-            <form action="{$siteroot}search/" method="get" style="margin-top: 0px;">
-              <input size="20" type="text" name="q" value="Search this site"
-                onfocus="this.value='';this.select();"/>
-              <input value="search" type="submit" style="padding: 0px; "/>
-              <br/>
-              <!-- edit -->
-              <!--<a href="searchHelp.html" class="help">Search Help</a>-->
-            </form>
-
           </div>
 
           <!-- /header -->
