@@ -433,6 +433,9 @@
                       </xsl:choose>
                       <xsl:text>.jpg</xsl:text>
                     </xsl:attribute>
+                     <xsl:attribute name="alt">
+                        <p><xsl:apply-templates/></p>
+                     </xsl:attribute>
                   </img>
                   <p><xsl:apply-templates/></p>
                 </span>
@@ -467,6 +470,9 @@
                         </xsl:choose>
                         <xsl:text>.jpg</xsl:text>
                       </xsl:attribute>
+                     <xsl:attribute name="alt">
+                        <p><xsl:apply-templates/></p>
+                     </xsl:attribute>
                     </img>
                     
                   </a>
