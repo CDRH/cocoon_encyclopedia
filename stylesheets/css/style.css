@@ -19,6 +19,10 @@ a, a:link, a:active, a:visited {
 	margin: auto;
 }
 
+.h1, .h2, .h3, .h4 {
+  font-weight: bold;
+}
+
 .header {
 	
 	padding: 10px 0 10px 0;
@@ -30,11 +34,11 @@ a, a:link, a:active, a:visited {
 	color: #fff;
 }
 
-.header h1 {
-	text-shadow: 4px 4px 7px #5f483e, 1px 1px 4px #000;
+.header .h1 {
+	text-shadow: 4px 4px 7px #5f483e, 1px 1px 1px #5f483e, -1px 1px 1px #5f483e, -1px -1px 1px #5f483e, 1px -1px 1px #5f483e;
 }
 
-.header h1 .titleFirst {
+.header .h1 .titleFirst {
 	font-size: 1.7em;
 	font-variant: normal;
 	text-transform: uppercase;
@@ -43,14 +47,14 @@ a, a:link, a:active, a:visited {
 	font-family: "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
 }
 
-.header h1 .titleSecond {
+.header .h1 .titleSecond {
 	font: normal normal 100 4.2em "Times New Roman", Times, serif;
 	display: block;
 	padding-left: 150px;
 	margin-top: -.2em;
 }
 
-.header h2 {
+.header .h2 {
 	text-align: right;
 	padding-right: 0px;
 	color: #483936;
@@ -62,7 +66,7 @@ a, a:link, a:active, a:visited {
 	top: 15px;
 }
 
-.header h2 a {
+.header .h2 a {
 	color: #483936;
 	
 }
@@ -94,30 +98,28 @@ a, a:link, a:active, a:visited {
 } */
 
 /* New styles for nav.navigation ul.main-menu */
-.main-menu {
+ul.main-menu {
   display: flex;
   flex-wrap: nowrap;
 }
 
-.main-menu a {
+ul.main-menu > * {
+  flex-grow: 1;
+}
+
+ul.main-menu li a {
+	color: #fff;
   display: block;
   height: 32px;
   padding-top: 8px;
+  text-decoration: none;
 }
 
-
-
-.navigation li:hover {
+.main-menu a:hover {
 	/*background-color: #262726;*/
 	background: url(../../imgs/bg90.png);
 	background-color: RGBA(48, 38, 34, .9);
 	
-}
-
-.navigation li a {
-	text-decoration: none;
-	color: #fff;
-
 }
 
 .main {
@@ -255,15 +257,7 @@ td {
 	display: none;
 }
 
-.home .header {
-
-}
-
-.home .header a{
-
-}
-
-.home .header h1 .titleFirst {
+.home .header .h1 .titleFirst {
 	font-size: 2em;
 	
 	display: block;
@@ -271,30 +265,26 @@ td {
 	
 }
 
-.home .header h1 .titleSecond {
-	
+.home .header .h1 .titleSecond {
 	display: block;
 	padding-left: 50px;
 	margin-top: -.2em;
 	font-size: 7em;
 }
 
-.home .header h2 {
+.home .header .h2 {
+  font-weight: bold;
 	
 }
 
-.home .header h2 a {
+.home .header .h2 a {
 	color: #483936;
 	
 }
 
-.home .navigation li {
+/* .home .navigation li {
 	width: 240px;
-}
-
-
-
-
+} */
 
 .home .main {
 	padding: 0;

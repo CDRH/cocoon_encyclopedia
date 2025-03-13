@@ -50,16 +50,16 @@
             </div>
             <div class="all">
                 <div class="header">
-                <h1>
+                <div class="site-title h1">
                   <a href="{$siteroot}">
                     <span class="titleFirst">Encyclopedia of the</span>
                     <span class="titleSecond">Great Plains</span>
                   </a>
                   
-                </h1>
-                <h2>
+                </div>
+                <div class="h2">
                   <a href="{$siteroot}">David J. Wishart, Editor</a>
-                </h2>
+                </div>
     
     
               </div>
@@ -103,6 +103,7 @@
                     <!-- HOME  -->
     
                     <xsl:if test="$pagetype = 'home'">
+                      <h1 class="sr-only">Home</h1>
                       <xsl:call-template name="home"/>
                     </xsl:if>
     
@@ -207,14 +208,14 @@
   <xsl:template match="head">
     <xsl:choose>
       <xsl:when test="head[1]">
-        <h2>
+        <h1 class="h2">
           <xsl:apply-templates/>
-        </h2>
+        </h1>
       </xsl:when>
       <xsl:otherwise>
-        <h3>
+        <h2 class="h3">
           <xsl:apply-templates/>
-        </h3>
+        </h2>
       </xsl:otherwise>
     </xsl:choose>
   </xsl:template>
@@ -222,9 +223,9 @@
 
 
   <xsl:template match="text/body/div1/head[1]">
-    <h2>
+    <h1 class="h2">
       <xsl:apply-templates/>
-    </h2>
+    </h1>
   </xsl:template>
 
 
@@ -339,9 +340,9 @@
   
 
   <xsl:template match="list">
-    <h4>
+    <div class="h4">
       <xsl:value-of select="head"/>
-    </h4>
+    </div>
     <ul>
       <xsl:apply-templates select="item"/>
     </ul>
@@ -670,7 +671,7 @@
     <xsl:variable name="searchTerm" select="substring(//str[@name='q'],2,string-length(//str[@name='q'])-2)"/>
     <xsl:variable name="start" select="//str[@name='start']"/>
     <xsl:variable name="numFound" select="//result/@numFound"/>
-    <h2>Search Results</h2>
+    <h1 class="h2">Search Results</h1>
     <p>Your search for <strong>
         <xsl:value-of select="$searchTerm"/>
       </strong> returned <strong>
@@ -719,11 +720,11 @@
         <xsl:value-of select="str[@name='id']"/>
       </xsl:variable>
       <div class="searchResult">
-        <h3>
+        <h2 class="h3">
           <a href="{$siteroot}doc/{$birdpagelink}.xml">
             <xsl:value-of select="str[@name='titleMain']"/>
           </a>
-        </h3>
+        </h2>
         <xsl:for-each select="//lst[@name='highlighting']/lst[@name=$birdpagelink]/arr/str">
           <p><xsl:text>...</xsl:text>
             <xsl:analyze-string regex="[\s]" select="normalize-space(.)">
