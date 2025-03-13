@@ -31,7 +31,7 @@ a, a:link, a:active, a:visited {
 }
 
 .header h1 {
-	text-shadow: 4px 4px 7px #5f483e;
+	text-shadow: 4px 4px 7px #5f483e, 1px 1px 4px #000;
 }
 
 .header h1 .titleFirst {
@@ -83,16 +83,29 @@ a, a:link, a:active, a:visited {
 	background: RGBA(48, 38, 34, .7);
 	height: 40px;
 	font-size: 1.2em;
-
 }
 
-.navigation li {
+/* .navigation li {
 	display: block;
 	width: 192px;
 	float: left;
 	height: 32px;
 	padding-top: 8px;
+} */
+
+/* New styles for nav.navigation ul.main-menu */
+.main-menu {
+  display: flex;
+  flex-wrap: nowrap;
 }
+
+.main-menu a {
+  display: block;
+  height: 32px;
+  padding-top: 8px;
+}
+
+
 
 .navigation li:hover {
 	/*background-color: #262726;*/
@@ -540,6 +553,7 @@ a.sr-only-focusable:hover, a.sr-only-focusable:focus {
 }
 
 .static-banner {
+  color: #000;
   margin: auto;
   max-width: 100%; /* Change this to the width of the page content */
   padding: 15px 0px;
@@ -554,6 +568,7 @@ a.sr-only-focusable:hover, a.sr-only-focusable:focus {
 }
 
 .static-banner p {
+  font-family: sans-serif;
   font-size: 14px; /* Change to fit site */
   margin: 0;
 }

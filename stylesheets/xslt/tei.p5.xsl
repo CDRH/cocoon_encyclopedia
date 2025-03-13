@@ -67,8 +67,8 @@
               <!-- /header -->
     
     
-              <div class="navigation">
-                <ul>
+              <nav class="navigation" aria-label="Main Menu">
+                <ul class="main-menu">
                   <li class="home">
                     <a href="{$siteroot}">Home</a>
                   </li>
@@ -81,14 +81,15 @@
                   <li class="birds">
                     <a href="{$siteroot}contributors">Contributors</a>
                   </li>
-    
-    
                   <li class="about">
                     <a href="{$siteroot}about.html">About</a>
                   </li>
+                  <li class="search">
+                    <a href="{$siteroot}search.html">Search</a>
+                  </li>
     
                 </ul>
-              </div>
+              </nav>
               <!-- /navigation -->
             </div>
           </header>
