@@ -601,7 +601,6 @@
         
           <li>
             <xsl:value-of select="."/>
-          </li>
           <ul>
             <xsl:for-each select="current-group()">
 
@@ -619,7 +618,7 @@
 
             </xsl:for-each>
           </ul>
-
+          </li>
           </xsl:if>
       </xsl:for-each-group>
     </ul>
