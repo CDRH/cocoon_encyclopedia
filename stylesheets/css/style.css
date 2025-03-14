@@ -4,7 +4,7 @@
     Author: Karin Dalziel
  */
  
-html {
+ html {
 	background: #ddae7e url(../../imgs/bg.jpg) fixed;
 }
 
@@ -35,7 +35,7 @@ a, a:link, a:active, a:visited {
 }
 
 .header .h1 {
-	text-shadow: 4px 4px 7px #5f483e, 1px 1px 1px #5f483e, -1px 1px 1px #5f483e, -1px -1px 1px #5f483e, 1px -1px 1px #5f483e;
+	text-shadow: 4px 4px 7px #5f483e, -1px 1px 1px #a2897e, -1px 1px 1px #a2897e, -1px -1px 0px #a2897e, 1px -1px 1px #a2897e;
 }
 
 .header .h1 .titleFirst {
