@@ -624,6 +624,7 @@
   </xsl:template>
   
   <xsl:template name="credits">
+    <h1 class="h2">Image Credits</h1>
     <xsl:apply-templates select="//text"/>
   </xsl:template>
 
