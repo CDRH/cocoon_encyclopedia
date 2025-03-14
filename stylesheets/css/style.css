@@ -369,9 +369,11 @@ h4, .h4 {
 	padding: 10px 0;
 }
 
-.main .surround h4 {
+.main .surround h4,
+.home .main .surround .h4 {
 	padding: 0;
 }
+
 
 
 /*  -----------  */

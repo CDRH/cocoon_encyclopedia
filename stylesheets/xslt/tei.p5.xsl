@@ -6,7 +6,7 @@
 
   <xsl:param name="pagetype">unset</xsl:param>
   <xsl:param name="pageprefix">unset</xsl:param>
-  <xsl:param name="imageid">unset</xsl:param>
+  <xsl:param name="imageid">unset</xsl:param>t
   <xsl:param name="imagebase">unset</xsl:param>
   <xsl:param name="cLetter">unset</xsl:param>
 
@@ -45,7 +45,7 @@
             <a class="sr-only sr-only-focusable" href="#main_content">Skip to main content</a>
             <div class="static-banner-wrapper">
               <div class="static-banner">
-                <p>This version of the website was created in 2025. See the <a href="/info.html">Site Information Page</a> for contact information, data downloads, and other details.</p>
+                <p>This version of the website was created in 2025. See the <a href="/encyclopedia/info.html">Site Information Page</a> for contact information, data downloads, and other details.</p>
               </div>
             </div>
             <div class="all">
@@ -434,7 +434,7 @@
                       <xsl:text>.jpg</xsl:text>
                     </xsl:attribute>
                      <xsl:attribute name="alt">
-                        <p><xsl:apply-templates/></p>
+                        <p><xsl:value-of select="translate(., '&quot;', '')" /></p>
                      </xsl:attribute>
                   </img>
                   <p><xsl:apply-templates/></p>
@@ -471,7 +471,7 @@
                         <xsl:text>.jpg</xsl:text>
                       </xsl:attribute>
                      <xsl:attribute name="alt">
-                        <p><xsl:apply-templates/></p>
+                        <p><xsl:value-of select="translate(., '&quot;', '')" /></p>
                      </xsl:attribute>
                     </img>
                     
@@ -560,7 +560,8 @@
 
   <xsl:template name="contributors">
     <xsl:apply-templates select="//text"/>
-    <ul class="alphaList {$cLetter}">
+    <nav aria-label="Lists of contributors by last name">
+<ul class="alphaList {$cLetter}">
       <li class="a"><a href="{$siteroot}contributors/a">a</a></li>
       <li class="b"><a href="{$siteroot}contributors/b">b</a></li>
       <li class="c"><a href="{$siteroot}contributors/c">c</a></li>
@@ -578,7 +579,7 @@
       <li class="o"><a href="{$siteroot}contributors/o">o</a></li>
       <li class="p"><a href="{$siteroot}contributors/p">p</a></li>
       <li class="q"><a href="{$siteroot}contributors/q">q</a></li>
-      <li class="r"><a href="{$siteroot}contributors/r">r</a></li>
+      <li class="r"><a href="{$siteroot}contributors/rm">r</a></li>
       <li class="s"><a href="{$siteroot}contributors/s">s</a></li>
       <li class="t"><a href="{$siteroot}contributors/t">t</a></li>
       <li class="u"><a href="{$siteroot}contributors/u">u</a></li>
@@ -589,6 +590,7 @@
       <li class="z"><a href="{$siteroot}contributors/z">z</a></li>
     </ul>
    
+    </nav>
     <ul class="contributors">
       <xsl:for-each-group select="//arr[@name='author']/str" group-by="." xpath-default-namespace="">
         
