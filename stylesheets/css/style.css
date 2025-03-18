@@ -580,3 +580,19 @@ a.sr-only-focusable:hover, a.sr-only-focusable:focus {
   margin: 0;
   padding: 0;
 }
+
+/* Pagination */
+
+nav ul.prev-next {
+  margin: 0;
+}
+
+nav ul.prev-next li {
+  display: inline-block;
+  position: relative;
+}
+
+nav ul.prev-next li:not(:last-of-type)::after {
+  content: ' | ';
+  position: relative;
+}

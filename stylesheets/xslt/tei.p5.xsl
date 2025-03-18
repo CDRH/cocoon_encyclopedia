@@ -645,20 +645,21 @@
       <xsl:value-of select="/TEI/@xml:id"/>
     </xsl:variable>
     <xsl:if test="not(contains($docID,'000'))">
-      <p>
-        <xsl:text>Previous: </xsl:text>
-        <xsl:for-each select="document($docURL)//ref[@n=$docID]">
+      <nav aria-label="Previous and Next Entries">
+        <ul class="prev-next">
+        <li><xsl:text>Previous: </xsl:text>
+          <xsl:for-each select="document($docURL)//ref[@n=$docID]">
           <xsl:apply-templates select="preceding::ref[not(child::hi[@rend='smallcaps'])][1]"/>
-        </xsl:for-each>
-        <xsl:text> | </xsl:text>
-        <a href="{$pageprefix}.000">Contents</a>
-        <xsl:text> | Next: </xsl:text>
+        </xsl:for-each></li>
+        <li><a href="{$pageprefix}.000">Contents</a></li>
+        <li><xsl:text>Next: </xsl:text>
         <xsl:for-each select="document($docURL)//item/ref[@n=$docID]">
           <!-- Match the 1st following ref which does not have a preceding
              aibling of 'hi' -->
           <xsl:apply-templates select="following::ref[not(child::hi[@rend='smallcaps'])][1]"/>
-        </xsl:for-each>
-      </p>
+        </xsl:for-each></li>
+      </ul>
+      </nav>
     </xsl:if>
     <p>XML: <a href="{$siteroot}/doc/source/{$docID}.xml"><xsl:value-of select="$docID"/><xsl:text>.xml</xsl:text></a></p>
   </xsl:template>
