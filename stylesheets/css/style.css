@@ -583,16 +583,21 @@ a.sr-only-focusable:hover, a.sr-only-focusable:focus {
 
 /* Pagination */
 
-nav ul.prev-next {
-  margin: 0;
+nav.prev-next {
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
-nav ul.prev-next li {
+nav.prev-next ul {
+  margin: 0;
+  padding: 5px 0px; /* Match p */
+}
+
+nav.prev-next ul li {
   display: inline-block;
   position: relative;
 }
 
-nav ul.prev-next li:not(:last-of-type)::after {
-  content: ' | ';
+nav.prev-next ul li:not(:last-of-type)::after {
+  content: '|';
   position: relative;
 }

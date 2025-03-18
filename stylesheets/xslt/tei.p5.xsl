@@ -645,8 +645,8 @@
       <xsl:value-of select="/TEI/@xml:id"/>
     </xsl:variable>
     <xsl:if test="not(contains($docID,'000'))">
-      <nav aria-label="Previous and Next Entries">
-        <ul class="prev-next">
+      <nav aria-label="Previous and Next Entries" class="prev-next">
+        <ul>
         <li><xsl:text>Previous: </xsl:text>
           <xsl:for-each select="document($docURL)//ref[@n=$docID]">
           <xsl:apply-templates select="preceding::ref[not(child::hi[@rend='smallcaps'])][1]"/>
